@@ -6,7 +6,9 @@ namespace mp4_sous_titre
     {
         static void Main(string[] args)
         {
-            interface.menu();
+            //erreur d'origine inconue.
+            Interface.menu();
+            
         }
     }
 }

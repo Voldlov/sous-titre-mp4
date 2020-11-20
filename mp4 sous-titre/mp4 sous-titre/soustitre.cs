@@ -57,10 +57,10 @@ namespace mp4_sous_titre
                         }
                     }
                 }
+                afficher();
             }
             
         }
-        //mettre dans la liste subtitles les sous-titres
         public void afficher()
         {
             //récupérer le bon soustitre
@@ -89,14 +89,18 @@ namespace mp4_sous_titre
             int i = 0;
             while (i == 0)
             {
-                if (TimeEnd[position] == Interface.clock())
+                if (TimeEnd[position] == Interface.clock() )
                 {
                     //efface la console.
                     Console.Clear();
                     i = 1;
                     //avancer dans les sous-titres.
                     position++;
-                    afficher();
+                    if(subtitle.Count < position )
+                    {
+                        afficher();
+                    }
+                    Interface.end();
                 }
             }
 
