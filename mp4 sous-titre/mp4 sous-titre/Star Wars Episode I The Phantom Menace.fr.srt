@@ -1,0 +1,5776 @@
+1
+00:01:54,644 --> 00:01:56,714
+- Capitaine.
+- Messire.
+
+2
+00:01:56,844 --> 00:01:58,880
+Annoncez-leur notre arrivée.
+
+3
+00:02:00,324 --> 00:02:04,875
+Les ambassadeurs du chancelier
+désirent monter à votre bord.
+
+4
+00:02:05,004 --> 00:02:06,801
+{y:i}Volontiers.
+
+5
+00:02:06,924 --> 00:02:09,882
+{y:i}Comme vous savez,
+{y:i}notre blocus est légal...
+
+6
+00:02:10,004 --> 00:02:13,917
+{y:i}et nous serons heureux de recevoir
+{y:i}les ambassadeurs.
+
+7
+00:02:35,484 --> 00:02:37,998
+T-C 14, à votre service.
+
+8
+00:02:38,124 --> 00:02:39,921
+Par ici, je vous prie.
+
+9
+00:02:45,804 --> 00:02:48,716
+Votre visite nous honore.
+
+10
+00:02:48,844 --> 00:02:52,996
+Installez-vous,
+mon maître ne va pas tarder.
+
+11
+00:02:56,724 --> 00:02:58,919
+J'ai un mauvais pressentiment.
+
+12
+00:02:59,044 --> 00:03:01,922
+- Je ne ressens rien.
+- Ça ne concerne pas notre mission...
+
+13
+00:03:02,044 --> 00:03:05,798
+c'est plus lointain, plus flou.
+
+14
+00:03:05,924 --> 00:03:08,199
+Oublie ton anxiété, Obi-Wan.
+
+15
+00:03:08,324 --> 00:03:11,316
+Reste concentré sur l'instant présent.
+
+16
+00:03:11,444 --> 00:03:14,163
+Maître Yoda dit
+qu'il faut être attentif à l'avenir.
+
+17
+00:03:14,284 --> 00:03:16,195
+Pas aux dépens du présent.
+
+18
+00:03:16,324 --> 00:03:19,122
+Sois attentif à la Force, jeune padawan.
+
+19
+00:03:19,244 --> 00:03:21,075
+Oui, maître.
+
+20
+00:03:23,204 --> 00:03:26,674
+Leur vice-roi cédera-t-il
+aux injonctions du chancelier ?
+
+21
+00:03:26,804 --> 00:03:28,840
+Ces gens de la Fédération
+sont des lâches.
+
+22
+00:03:28,964 --> 00:03:31,683
+Les négociations seront brèves.
+
+23
+00:03:32,524 --> 00:03:34,958
+Que dis-tu ?
+
+24
+00:03:35,084 --> 00:03:37,917
+Les ambassadeurs
+sont des chevaliers jedi.
+
+25
+00:03:38,644 --> 00:03:39,793
+J'en étais sûr !
+
+26
+00:03:39,924 --> 00:03:42,074
+Ils viennent nous forcer la main.
+
+27
+00:03:43,364 --> 00:03:46,322
+Occupez-les !
+Je contacte le seigneur Sidious.
+
+28
+00:03:46,444 --> 00:03:47,957
+Vous êtes fou ?
+
+29
+00:03:48,084 --> 00:03:50,803
+Je ne resterai pas avec deux Jedi !
+
+30
+00:03:52,404 --> 00:03:53,757
+Envoyez le droïde.
+
+31
+00:03:59,004 --> 00:04:00,801
+Cette attente est normale ?
+
+32
+00:04:00,924 --> 00:04:05,281
+Non. Je perçois une peur anormale
+pour un simple litige commercial.
+
+33
+00:04:15,764 --> 00:04:17,561
+{y:i}Qu'y a-t-il ?
+
+34
+00:04:17,684 --> 00:04:20,244
+Votre plan a échoué, seigneur Sidious.
+
+35
+00:04:20,364 --> 00:04:23,754
+Le blocus est fini.
+Nous n'osons nous opposer aux Jedi.
+
+36
+00:04:23,884 --> 00:04:28,480
+{y:i}Vice-roi, éloignez à jamais
+{y:i}cet avorton de ma vue.
+
+37
+00:04:29,804 --> 00:04:33,683
+{y:i}Tout cela est regrettable.
+{y:i}Il faut accélérer notre plan.
+
+38
+00:04:33,804 --> 00:04:36,238
+{y:i}Débarquez vos troupes.
+
+39
+00:04:36,364 --> 00:04:39,913
+Monseigneur ! Est-ce bien légal ?
+
+40
+00:04:40,044 --> 00:04:42,239
+{y:i}Je le rendrai légal.
+
+41
+00:04:42,364 --> 00:04:44,559
+Et les Jedi ?
+
+42
+00:04:44,684 --> 00:04:48,882
+{y:i}Le chancelier n'aurait pas dû
+{y:i}les mêler à ça. Tuez-les.
+
+43
+00:04:49,004 --> 00:04:53,122
+Bien, monseigneur.
+Comme vous voulez.
+
+44
+00:04:54,924 --> 00:04:56,642
+Capitaine !
+
+45
+00:04:57,724 --> 00:04:59,043
+Bouclier !
+
+46
+00:05:02,404 --> 00:05:04,201
+Pardon.
+
+47
+00:05:05,884 --> 00:05:07,681
+Du dioxis.
+
+48
+00:05:12,364 --> 00:05:14,832
+{y:i}Ils doivent être morts déjà.
+
+49
+00:05:14,964 --> 00:05:17,524
+{y:i}Détruisez ce qu'il reste d'eux.
+
+50
+00:05:25,324 --> 00:05:27,599
+Excusez-moi.
+
+51
+00:05:27,724 --> 00:05:30,557
+- Allez voir, caporal.
+- Cinq sur cinq.
+
+52
+00:05:31,484 --> 00:05:33,076
+Feu !
+
+53
+00:05:38,604 --> 00:05:40,083
+Que se passe-t-il ?
+
+54
+00:05:40,204 --> 00:05:42,081
+On ne les reçoit plus.
+
+55
+00:05:46,404 --> 00:05:49,282
+Avez-vous déjà rencontré un Jedi ?
+
+56
+00:05:49,404 --> 00:05:52,237
+Non, mais...
+Fermez la passerelle !
+
+57
+00:05:53,364 --> 00:05:54,956
+Ça ne suffira pas.
+
+58
+00:05:55,084 --> 00:05:56,961
+Envoyez les droïdekass !
+
+59
+00:05:57,084 --> 00:05:59,518
+Nous n'en sortirons pas vivants !
+
+60
+00:06:10,604 --> 00:06:11,957
+Fermez les sas !
+
+61
+00:06:18,324 --> 00:06:20,394
+Ça va les arrêter.
+
+62
+00:06:28,524 --> 00:06:31,118
+Ils arrivent encore à passer !
+
+63
+00:06:31,244 --> 00:06:33,075
+C'est impossible !
+
+64
+00:06:37,404 --> 00:06:40,123
+Que font les droïdekass ?
+
+65
+00:06:41,644 --> 00:06:43,316
+Maître, des destroyers !
+
+66
+00:06:49,484 --> 00:06:50,803
+Ils ont des boucliers.
+
+67
+00:06:52,204 --> 00:06:54,798
+On décroche !
+
+68
+00:06:58,804 --> 00:07:01,193
+Ils ne sont pas de taille
+contre les droïdekass
+
+69
+00:07:03,044 --> 00:07:05,604
+Ils ont fui par la ventilation.
+
+70
+00:07:14,044 --> 00:07:16,604
+- Des droïdes de combat.
+- Une armée d'invasion.
+
+71
+00:07:18,284 --> 00:07:20,844
+Ça m'étonne de la Fédération.
+
+72
+00:07:20,964 --> 00:07:23,922
+Il faut alerter les Naboo
+et le chancelier Valorum.
+
+73
+00:07:24,044 --> 00:07:28,720
+Glissons-nous dans deux vaisseaux
+et retrouvons-nous sur la planète.
+
+74
+00:07:28,844 --> 00:07:30,596
+Vous aviez raison...
+
+75
+00:07:32,484 --> 00:07:35,044
+Les négociations n'ont pas traîné.
+
+76
+00:07:36,164 --> 00:07:38,473
+Une liaison avec la planète.
+
+77
+00:07:38,604 --> 00:07:40,595
+C'est la reine Amidala.
+
+78
+00:07:40,724 --> 00:07:43,033
+Enfin des résultats !
+
+79
+00:07:44,364 --> 00:07:47,242
+De nouveau, vous voici devant nous,
+Votre Altesse.
+
+80
+00:07:47,364 --> 00:07:50,322
+{y:i}Ne vous réjouissez pas trop vite.
+
+81
+00:07:50,444 --> 00:07:53,993
+{y:i}Votre embargo
+{y:i}sur notre planète est terminé.
+
+82
+00:07:54,124 --> 00:07:56,558
+Je n'en ai pas été informé.
+
+83
+00:07:56,684 --> 00:07:59,278
+{y:i}Les ambassadeurs du chancelier...
+
+84
+00:07:59,404 --> 00:08:01,998
+{y:i}vous ont ordonné
+{y:i}de parvenir à un règlement.
+
+85
+00:08:02,124 --> 00:08:04,274
+Je n'ai vu aucun ambassadeur.
+
+86
+00:08:04,404 --> 00:08:06,679
+Vous faites erreur.
+
+87
+00:08:06,804 --> 00:08:08,715
+{y:i}Attention, vice-roi.
+
+88
+00:08:08,844 --> 00:08:11,438
+{y:i}La Fédération va trop loin, cette fois.
+
+89
+00:08:11,564 --> 00:08:15,443
+Nous ne faisons rien
+sans l'accord du sénat.
+
+90
+00:08:15,564 --> 00:08:17,953
+Vous vous faites des idées.
+
+91
+00:08:18,084 --> 00:08:19,403
+{y:i}Nous verrons.
+
+92
+00:08:20,964 --> 00:08:24,798
+- Elle a raison, le sénat ne...
+- Trop tard !
+
+93
+00:08:24,924 --> 00:08:27,757
+- S'attend-elle à une offensive ?
+- Je ne sais pas...
+
+94
+00:08:27,884 --> 00:08:32,036
+mais il faut vite neutraliser
+leurs communications.
+
+95
+00:08:37,324 --> 00:08:40,919
+{y:i}Les négociations n'ont pas commencé
+{y:i}car les ambassadeurs ne sont pas là ?
+
+96
+00:08:41,044 --> 00:08:43,114
+{y:i}Vraiment ?
+
+97
+00:08:43,244 --> 00:08:47,396
+{y:i}Le chancelier m'a assuré
+{y:i}qu'ils étaient arrivés.
+
+98
+00:08:47,524 --> 00:08:51,676
+{y:i}Il y a sûrement...
+
+99
+00:08:51,804 --> 00:08:53,760
+Sénateur Palpatine...
+
+100
+00:08:53,884 --> 00:08:55,681
+Que se passe-t-il ?
+
+101
+00:08:55,804 --> 00:08:57,601
+Vérifiez la liaison.
+
+102
+00:08:57,724 --> 00:09:02,354
+La coupure des communications ne peut
+signifier qu'une chose : L'invasion.
+
+103
+00:09:02,484 --> 00:09:04,679
+Ils n'oseraient pas.
+
+104
+00:09:04,804 --> 00:09:08,433
+Le sénat leur retirerait
+leur monopole commercial.
+
+105
+00:09:08,564 --> 00:09:11,283
+Il faut continuer à négocier.
+
+106
+00:09:11,404 --> 00:09:14,476
+Négocier ?
+Sans moyens de communication ?
+
+107
+00:09:14,604 --> 00:09:16,834
+Et où sont les ambassadeurs
+du chancelier ?
+
+108
+00:09:18,124 --> 00:09:20,479
+C'est une situation dangereuse.
+
+109
+00:09:20,604 --> 00:09:24,756
+Nos volontaires seraient balayés
+par l'armée de la Fédération.
+
+110
+00:09:26,284 --> 00:09:29,833
+Je ne cautionnerai pas
+une logique de guerre.
+
+111
+00:10:04,804 --> 00:10:07,762
+- Oui, vice-roi ?
+{y:i}- Le bâtiment a été fouillé.
+
+112
+00:10:07,884 --> 00:10:09,920
+{y:i}Aucune trace des Jedi.
+
+113
+00:10:10,044 --> 00:10:12,683
+{y:i}Ils ont dû débarquer avec vous.
+
+114
+00:10:12,804 --> 00:10:15,159
+S'ils sont ici, nous les trouverons.
+
+115
+00:10:15,284 --> 00:10:19,436
+{y:i}Soyez prudents.
+{y:i}Il ne faut pas sous-estimer ces Jedi.
+
+116
+00:10:46,724 --> 00:10:49,477
+Kézako ?
+Attends !
+
+117
+00:10:50,364 --> 00:10:52,036
+Moï-moï, je t'aïme !
+
+118
+00:10:52,164 --> 00:10:54,120
+On a failli mourir.
+Tu es idiot ?
+
+119
+00:10:54,244 --> 00:10:55,802
+Je sais parler !
+
+120
+00:10:55,924 --> 00:10:57,960
+Tu n'en es pas intelligent
+pour autant.
+
+121
+00:10:58,084 --> 00:11:00,837
+- File.
+- Non, missa reste.
+
+122
+00:11:00,964 --> 00:11:03,876
+Missa Jar Jar Binks.
+Missa ton serviteur.
+
+123
+00:11:04,004 --> 00:11:05,995
+- Inutile.
+- Mais si !
+
+124
+00:11:06,124 --> 00:11:08,877
+Les dieux l'ont voulu.
+
+125
+00:11:09,004 --> 00:11:10,835
+Baisse-toi !
+
+126
+00:11:18,844 --> 00:11:20,516
+Tissa encore sauvé missa !
+
+127
+00:11:20,644 --> 00:11:22,441
+- C'est quoi ?
+- Un autochtone.
+
+128
+00:11:22,564 --> 00:11:24,998
+Partons avant que
+d'autres droïdes n'arrivent.
+
+129
+00:11:25,124 --> 00:11:28,355
+D'autres ?
+D'autres, voussa dites ?
+
+130
+00:11:28,484 --> 00:11:33,160
+Excusez, mais le plus sûr endroit
+est Gunga City.
+
+131
+00:11:33,284 --> 00:11:36,356
+Missa grandit là.
+C'est une ville cachée.
+
+132
+00:11:37,924 --> 00:11:39,721
+Une ville ?
+
+133
+00:11:39,844 --> 00:11:41,562
+Tu peux nous y emmener ?
+
+134
+00:11:42,084 --> 00:11:46,282
+Tout bien réflexi... non.
+
+135
+00:11:46,444 --> 00:11:48,480
+Missa honte, mais...
+
+136
+00:11:48,604 --> 00:11:52,392
+missa banni.
+
+137
+00:11:52,524 --> 00:11:55,482
+Missa oublié.
+Les Boss feraient horreurs à missa...
+
+138
+00:11:55,604 --> 00:11:58,516
+horreurs... si missa retourne !
+
+139
+00:11:58,644 --> 00:12:01,522
+Tu entends ?
+
+140
+00:12:01,644 --> 00:12:05,239
+C'est le bruit de mille horreurs
+qui approchent.
+
+141
+00:12:05,364 --> 00:12:07,832
+Si elles nous trouvent,
+elles nous écraseront...
+
+142
+00:12:07,964 --> 00:12:12,321
+nous hacheront menu
+et nous désintégreront.
+
+143
+00:12:12,444 --> 00:12:16,198
+Ah... Missa vois
+ce que voussa dites.
+
+144
+00:12:16,324 --> 00:12:18,554
+Par-là. Fissa !
+
+145
+00:12:23,644 --> 00:12:26,795
+- C'est encore loin ?
+- Noussa sous l'eau, sébono ?
+
+146
+00:12:26,924 --> 00:12:28,721
+Missa 'vertir vous.
+
+147
+00:12:28,844 --> 00:12:32,803
+Gungans aiment pas Pas-Gungans.
+Attendez pas accueil chaleureux.
+
+148
+00:12:32,924 --> 00:12:36,121
+Ne t'inquiète pas pour nous,
+ce n'est pas notre jour.
+
+149
+00:12:46,124 --> 00:12:48,433
+Voussa suivez ?
+
+150
+00:13:31,884 --> 00:13:34,682
+Sébono rentrer maison !
+
+151
+00:13:50,404 --> 00:13:52,872
+Voussa ! Stop-là !
+
+152
+00:13:53,004 --> 00:13:55,234
+Salutavoussi, capitaine Tarpals.
+
+153
+00:13:55,364 --> 00:13:57,161
+Missa revenu !
+
+154
+00:13:57,284 --> 00:14:00,082
+Que néniet, Jar Jar.
+Viens chez Boss.
+
+155
+00:14:00,204 --> 00:14:02,718
+Tissa dans beau kaha-kaha.
+
+156
+00:14:08,284 --> 00:14:09,797
+Souvage !
+
+157
+00:14:18,084 --> 00:14:20,393
+Voussa rien à faire ici.
+
+158
+00:14:20,524 --> 00:14:24,881
+L'armée des mékanix en surface,
+nouvelle sournette !
+
+159
+00:14:25,004 --> 00:14:29,680
+Une armée droïde va attaquer
+les Naboo. Il faut les avertir.
+
+160
+00:14:29,804 --> 00:14:33,240
+Noussa 'précie pas
+les Naboo !
+
+161
+00:14:33,364 --> 00:14:36,037
+Les Naboo se croient malins.
+
+162
+00:14:36,164 --> 00:14:38,962
+Se croient plus grosse cervelle !
+
+163
+00:14:39,084 --> 00:14:43,043
+Une fois maîtres de la surface,
+les droïdes s'en prendront à vous.
+
+164
+00:14:43,164 --> 00:14:45,359
+Missa crois pas.
+
+165
+00:14:45,484 --> 00:14:48,237
+Eussa ignorent notre existence.
+
+166
+00:14:48,364 --> 00:14:51,162
+Vous et les Naboo vivez en symbiose.
+
+167
+00:14:51,284 --> 00:14:54,515
+Ce qui frappe les uns
+affectera les autres.
+
+168
+00:14:54,644 --> 00:14:59,240
+Noussa rien à faire des Naboo !
+
+169
+00:14:59,364 --> 00:15:01,798
+Alors, souhaitez-nous bonne route.
+
+170
+00:15:01,924 --> 00:15:04,313
+Noussa souhaite vous bonne route.
+
+171
+00:15:04,444 --> 00:15:07,117
+Il nous faudrait un véhicule.
+
+172
+00:15:07,244 --> 00:15:09,963
+Noussa donne voussa un bongo.
+
+173
+00:15:10,084 --> 00:15:13,042
+Chemin direct pour Naboo...
+
+174
+00:15:13,164 --> 00:15:17,680
+passe par noyau planète.
+
+175
+00:15:17,804 --> 00:15:19,601
+Maintenant...
+
+176
+00:15:19,724 --> 00:15:21,442
+partez.
+
+177
+00:15:21,564 --> 00:15:23,714
+Merci.
+Nous partons en paix.
+
+178
+00:15:23,844 --> 00:15:25,800
+Qu'est-ce qu'un bongo ?
+
+179
+00:15:25,924 --> 00:15:27,801
+Un véhicule, j'espère.
+
+180
+00:15:27,924 --> 00:15:29,915
+Voussa roulés farine.
+
+181
+00:15:30,044 --> 00:15:33,514
+Passer par noyau planète ?
+Garobobo !
+
+182
+00:15:34,964 --> 00:15:37,637
+Un coup de main serait pas de refus.
+
+183
+00:15:38,924 --> 00:15:40,721
+Le temps presse.
+
+184
+00:15:41,804 --> 00:15:44,318
+Il nous faut un guide
+pour traverser le noyau.
+
+185
+00:15:44,444 --> 00:15:46,321
+Il peut nous aider.
+
+186
+00:15:48,364 --> 00:15:51,276
+Qu'allez-vous faire de Jar Jar Binks ?
+
+187
+00:15:51,404 --> 00:15:56,114
+Lissa sera... puni.
+
+188
+00:15:57,004 --> 00:15:58,323
+Je lui ai sauvé la vie.
+
+189
+00:15:58,444 --> 00:16:00,833
+Il a une dette éternelle
+envers moi.
+
+190
+00:16:00,964 --> 00:16:04,639
+Vos dieux exigent
+que sa vie m'appartienne.
+
+191
+00:16:04,764 --> 00:16:06,994
+Binks...
+
+192
+00:16:07,124 --> 00:16:10,912
+tissa dette de vie avec celui-ci ?
+
+193
+00:16:17,404 --> 00:16:19,156
+Partez avec lui !
+
+194
+00:16:21,724 --> 00:16:23,999
+Voussa pas compter sur moi !
+
+195
+00:16:24,124 --> 00:16:27,116
+Plutôt mort ici
+que dans noyau planète.
+
+196
+00:16:27,244 --> 00:16:30,236
+Mildiou !
+Keske missa raconte ?
+
+197
+00:16:47,724 --> 00:16:50,397
+Cinglerie !
+Un poisson-louf !
+
+198
+00:16:50,524 --> 00:16:53,641
+- Pourquoi as-tu été banni ?
+- Longue histoire, mais...
+
+199
+00:16:53,764 --> 00:16:58,599
+pour résumer : Missa... maladroit.
+
+200
+00:16:58,724 --> 00:17:03,320
+- Banni pour maladresse ?
+- Tissa peux dire ça.
+
+201
+00:17:15,724 --> 00:17:19,763
+Missa causé
+un ou deux petits accidents.
+
+202
+00:17:19,884 --> 00:17:24,639
+Boum le gazeur, zibouillé limosine
+du Boss... Alors banni.
+
+203
+00:17:31,604 --> 00:17:33,595
+Gros poisson-louf !
+Gros crocs !
+
+204
+00:17:43,964 --> 00:17:47,843
+- Il y en a toujours un plus gros.
+- Noussa rentre, maintenant.
+
+205
+00:17:58,764 --> 00:18:01,836
+L'invasion se déroule
+comme prévu, monseigneur.
+
+206
+00:18:01,964 --> 00:18:04,842
+{y:i}Je noie le sénat
+{y:i}dans des querelles de procédure.
+
+207
+00:18:04,964 --> 00:18:09,196
+{y:i}Ils devront accepter
+{y:i}votre prise de contrôle du système.
+
+208
+00:18:09,324 --> 00:18:13,840
+La reine est convaincue
+que le sénat sera de son côté.
+
+209
+00:18:13,964 --> 00:18:16,797
+{y:i}La reine Amidala est jeune et naïve.
+
+210
+00:18:16,924 --> 00:18:20,234
+{y:i}Vous la manipulerez sans difficulté.
+
+211
+00:18:23,564 --> 00:18:26,317
+Vous ne lui avez pas parlé
+de la disparition des Jedi.
+
+212
+00:18:26,444 --> 00:18:30,756
+Inutile de lui en faire part
+tant qu'il n'y a rien de concret.
+
+213
+00:18:35,084 --> 00:18:38,633
+- Où allons-noussa ?
+- La Force nous guidera.
+
+214
+00:18:38,764 --> 00:18:41,437
+Maxi-maousse, la Force !
+
+215
+00:18:42,324 --> 00:18:44,235
+Ça cocotte pas bon.
+
+216
+00:18:45,564 --> 00:18:47,839
+On perd de la puissance.
+
+217
+00:18:53,564 --> 00:18:55,714
+Noussa mourir !
+
+218
+00:18:55,844 --> 00:18:58,404
+- On n'est pas encore en danger.
+- Pas encore ?
+
+219
+00:18:58,524 --> 00:19:01,357
+Monstres dehors, fuite dedans...
+
+220
+00:19:01,484 --> 00:19:06,239
+Noussa coule sans puissance !
+C'est quand, le danger, pour voussa ?
+
+221
+00:19:07,484 --> 00:19:09,679
+Ça revient.
+
+222
+00:19:09,804 --> 00:19:11,795
+Le monstre revient !
+
+223
+00:19:19,324 --> 00:19:20,996
+Détends-toi.
+
+224
+00:19:21,124 --> 00:19:22,523
+Pas trop.
+
+225
+00:19:38,604 --> 00:19:40,560
+Va vers ces rochers.
+
+226
+00:20:16,404 --> 00:20:18,395
+Nous avons capturé la reine.
+
+227
+00:20:18,524 --> 00:20:21,084
+Victoire !
+
+228
+00:20:34,044 --> 00:20:36,114
+Très zoli !
+
+229
+00:20:42,044 --> 00:20:44,274
+Comment expliquerez-vous
+cette invasion au sénat ?
+
+230
+00:20:44,404 --> 00:20:48,397
+La Reine et moi allons signer un traité
+légitimant l'occupation.
+
+231
+00:20:48,524 --> 00:20:51,561
+J'ai l'assurance
+qu'il sera ratifié par le Sénat.
+
+232
+00:20:51,684 --> 00:20:54,994
+- Je ne coopérerai pas.
+- Allons, Votre Altesse !
+
+233
+00:20:55,124 --> 00:20:59,083
+Les souffrances de votre peuple
+vous feront changer d'avis.
+
+234
+00:21:00,364 --> 00:21:02,195
+Commandant !
+
+235
+00:21:02,324 --> 00:21:03,882
+Disposez d'eux.
+
+236
+00:21:04,004 --> 00:21:05,722
+Emmenez-les au camp 4.
+
+237
+00:21:05,844 --> 00:21:07,402
+Cinq sur cinq.
+
+238
+00:22:00,044 --> 00:22:02,160
+Ne restons pas là, Votre Altesse.
+
+239
+00:22:02,284 --> 00:22:03,842
+Prenez leurs armes.
+
+240
+00:22:05,604 --> 00:22:07,754
+Voussa caïds !
+
+241
+00:22:09,324 --> 00:22:11,599
+Nous sommes les ambassadeurs
+du chancelier.
+
+242
+00:22:11,724 --> 00:22:13,521
+Vos négociations ont échoué.
+
+243
+00:22:13,644 --> 00:22:15,396
+Elles n'ont pas eu lieu.
+
+244
+00:22:15,524 --> 00:22:17,799
+Il faut contacter la République.
+
+245
+00:22:17,924 --> 00:22:19,915
+Les communications sont coupées.
+
+246
+00:22:20,044 --> 00:22:23,241
+- Vous avez des vaisseaux ?
+- Dans le grand hangar.
+
+247
+00:22:28,004 --> 00:22:30,962
+- Ils sont trop nombreux.
+- Aucun problème.
+
+248
+00:22:31,084 --> 00:22:34,474
+Votre Altesse, je vous conseille
+de venir avec nous sur Coruscant.
+
+249
+00:22:34,604 --> 00:22:37,516
+Merci, mais ma place
+est auprès de mon peuple.
+
+250
+00:22:37,644 --> 00:22:40,238
+- Ils vous tueront si vous restez.
+- Ils n'oseraient pas !
+
+251
+00:22:40,364 --> 00:22:43,913
+Ils ont besoin d'elle pour signer
+un traité légitimant l'invasion.
+
+252
+00:22:44,044 --> 00:22:46,080
+Tout ça cache autre chose.
+
+253
+00:22:46,204 --> 00:22:48,081
+Cette invasion n'a pas de sens.
+
+254
+00:22:48,204 --> 00:22:50,081
+Je sens qu'on veut vous détruire.
+
+255
+00:22:50,204 --> 00:22:52,479
+Notre seul espoir est au sénat.
+
+256
+00:22:52,604 --> 00:22:54,959
+Le sénateur Palpatine
+aura besoin de vous.
+
+257
+00:22:55,084 --> 00:22:58,872
+Que je parte ou reste,
+le danger est grand... pour nous tous.
+
+258
+00:22:59,004 --> 00:23:00,801
+Nous sommes courageuses.
+
+259
+00:23:00,924 --> 00:23:04,041
+Si vous devez partir,
+c'est maintenant.
+
+260
+00:23:04,164 --> 00:23:06,519
+J'irai donc au sénat.
+
+261
+00:23:07,524 --> 00:23:09,242
+Prudence, gouverneur.
+
+262
+00:23:17,804 --> 00:23:19,795
+Il faut libérer ces pilotes.
+
+263
+00:23:21,004 --> 00:23:22,801
+Je m'en charge.
+
+264
+00:23:27,244 --> 00:23:30,475
+Je suis ambassadeur du chancelier.
+Nous partons pour Coruscant.
+
+265
+00:23:30,604 --> 00:23:33,676
+- Pour où ?
+- Coruscant.
+
+266
+00:23:33,804 --> 00:23:36,318
+Coruscant ? Pas de fichier !
+
+267
+00:23:36,444 --> 00:23:38,275
+Je vous arrête.
+
+268
+00:24:15,284 --> 00:24:18,435
+Reste là
+et ne fais pas de bêtises.
+
+269
+00:24:22,084 --> 00:24:24,154
+Salut, les gars !
+
+270
+00:24:30,244 --> 00:24:31,802
+Voilà le barrage !
+
+271
+00:24:41,804 --> 00:24:43,362
+Le générateur de protection !
+
+272
+00:24:51,524 --> 00:24:53,037
+Souvage !
+
+273
+00:25:02,644 --> 00:25:04,157
+On perd des droïdes
+
+274
+00:25:04,964 --> 00:25:07,478
+S'ils ne réparent pas
+on n'a aucune chance !
+
+275
+00:25:09,564 --> 00:25:10,758
+Plus de boucliers !
+
+276
+00:25:18,564 --> 00:25:19,838
+Ça repart !
+
+277
+00:25:22,524 --> 00:25:25,834
+Le droïde a réussi !
+II a fait une dérivation.
+
+278
+00:25:25,964 --> 00:25:28,432
+Boucliers activés !
+
+279
+00:25:37,644 --> 00:25:41,193
+On va manquer d'énergie.
+L'hyperdrive fuit.
+
+280
+00:25:41,324 --> 00:25:44,077
+Il faut nous poser pour réparer.
+
+281
+00:25:44,204 --> 00:25:46,274
+Là, maître : Tatooine.
+
+282
+00:25:46,404 --> 00:25:49,794
+Une petite planète, isolée, pauvre.
+La Fédération en est absente.
+
+283
+00:25:49,924 --> 00:25:51,721
+Vous en êtes sûr ?
+
+284
+00:25:51,844 --> 00:25:53,675
+Elle est aux mains des Hutts.
+
+285
+00:25:53,804 --> 00:25:57,763
+Pas question d'y emmener la reine.
+Ce sont des gangsters !
+
+286
+00:25:57,964 --> 00:26:00,717
+Ce serait pire sur un système
+de la Fédération.
+
+287
+00:26:00,844 --> 00:26:02,835
+Les Hutts ne la recherchent pas.
+
+288
+00:26:02,964 --> 00:26:04,955
+C'est un avantage.
+
+289
+00:26:09,244 --> 00:26:12,122
+{y:i}La reine Amidala a signé le traité ?
+
+290
+00:26:12,244 --> 00:26:15,714
+Elle a disparu, monseigneur.
+
+291
+00:26:15,844 --> 00:26:19,837
+Un croiseur naboo a forcé le blocus.
+
+292
+00:26:20,484 --> 00:26:22,759
+{y:i}Je veux que ce traité soit signé !
+
+293
+00:26:22,884 --> 00:26:27,400
+Monseigneur, il est impossible
+de localiser ce vaisseau.
+
+294
+00:26:27,524 --> 00:26:29,640
+Il est hors de portée.
+
+295
+00:26:29,764 --> 00:26:31,914
+{y:i}Pas pour un Sith.
+
+296
+00:26:32,484 --> 00:26:34,281
+{y:i}Voici mon apprenti...
+
+297
+00:26:34,404 --> 00:26:36,235
+{y:i}Darth Maul.
+
+298
+00:26:37,524 --> 00:26:40,675
+{y:i}Il retrouvera votre vaisseau.
+
+299
+00:26:44,844 --> 00:26:47,039
+La situation nous échappe.
+
+300
+00:26:47,164 --> 00:26:49,120
+Ils sont deux, maintenant !
+
+301
+00:26:49,244 --> 00:26:52,122
+Nous aurions dû refuser ce marché.
+
+302
+00:26:57,204 --> 00:27:00,594
+Un petit droïde très bien conçu,
+Votre Altesse.
+
+303
+00:27:00,724 --> 00:27:03,477
+Il a sauvé le vaisseau et nos vies.
+
+304
+00:27:03,604 --> 00:27:06,801
+Il est digne d'éloges.
+Quel est son matricule ?
+
+305
+00:27:09,364 --> 00:27:11,400
+R2-D2, Votre Altesse.
+
+306
+00:27:11,524 --> 00:27:12,877
+Merci, R2-D2.
+
+307
+00:27:16,524 --> 00:27:17,877
+Padmé !
+
+308
+00:27:19,364 --> 00:27:21,400
+Nettoie ce droïde
+
+309
+00:27:21,524 --> 00:27:23,401
+Il mérite notre gratitude.
+
+310
+00:27:25,124 --> 00:27:26,603
+Poursuivez.
+
+311
+00:27:29,444 --> 00:27:33,960
+Si vous le permettez, nous nous
+dirigeons vers la planète Tatooine.
+
+312
+00:27:34,084 --> 00:27:37,281
+Dans un système
+hors d'atteinte de la Fédération.
+
+313
+00:27:37,404 --> 00:27:39,872
+Je suis en désaccord avec le Jedi.
+
+314
+00:27:40,004 --> 00:27:42,802
+Il faut vous fier à moi, Votre Altesse.
+
+315
+00:27:46,084 --> 00:27:47,722
+Bonjour !
+
+316
+00:27:47,844 --> 00:27:50,677
+Pardon.
+Quissa es-tissa ?
+
+317
+00:27:51,804 --> 00:27:53,157
+Padmé.
+
+318
+00:27:54,244 --> 00:27:56,155
+Missa Jar Jar Binks.
+
+319
+00:27:56,964 --> 00:27:58,192
+Tu es gungan ?
+
+320
+00:28:00,404 --> 00:28:03,840
+- Comment es-tu là ?
+- Missa sais pas.
+
+321
+00:28:03,964 --> 00:28:08,754
+Missa 'taqué journée sébono
+par casser croûte et... boum !
+
+322
+00:28:09,204 --> 00:28:12,640
+Missa chocottes bleues,
+attrapé Jedi et... pan !
+
+323
+00:28:12,844 --> 00:28:17,281
+Missa là.
+Bleues-bleues, les chocottes.
+
+324
+00:28:23,324 --> 00:28:26,282
+- La voilà : Tatooine.
+- Il y a des habitations.
+
+325
+00:28:26,404 --> 00:28:30,317
+Posons-nous à l'écart
+pour ne pas attirer l'attention.
+
+326
+00:28:46,884 --> 00:28:49,557
+L'hyperdrive est mort.
+Il faut le changer.
+
+327
+00:28:49,684 --> 00:28:52,039
+Ça complique les choses.
+Méfie-toi.
+
+328
+00:28:52,244 --> 00:28:55,156
+- Je sens la Force perturbée.
+- Moi aussi, maître.
+
+329
+00:28:55,284 --> 00:28:57,240
+Interdis toute communication.
+
+330
+00:29:03,084 --> 00:29:05,393
+Ce soleil assassine missa peau !
+
+331
+00:29:05,524 --> 00:29:06,957
+Attendez !
+
+332
+00:29:12,644 --> 00:29:15,397
+La reine ordonne
+que sa suivante vous accompagne.
+
+333
+00:29:15,524 --> 00:29:19,119
+Plus d'ordres royaux
+pour aujourd'hui.
+
+334
+00:29:19,244 --> 00:29:21,235
+Ce n'est pas une promenade.
+
+335
+00:29:21,364 --> 00:29:25,357
+La reine a de la curiosité
+pour cette planète.
+
+336
+00:29:27,844 --> 00:29:30,756
+C'est une mauvaise idée.
+Restez près de moi.
+
+337
+00:29:44,004 --> 00:29:46,723
+Des fermes hydroponiques...
+
+338
+00:29:47,964 --> 00:29:51,513
+quelques tribus indigènes
+et des pillards.
+
+339
+00:29:51,644 --> 00:29:55,762
+Ces astroports sont des refuges
+pour tous les fugitifs.
+
+340
+00:29:55,884 --> 00:29:57,715
+Comme nous.
+
+341
+00:29:59,004 --> 00:30:01,677
+Mauvais-mauvais !
+
+342
+00:30:03,004 --> 00:30:04,642
+Dégueu-burk !
+
+343
+00:30:17,124 --> 00:30:19,433
+Essayons chez un petit revendeur.
+
+344
+00:30:24,924 --> 00:30:26,721
+Bonjour.
+
+345
+00:30:28,324 --> 00:30:29,643
+Vous désirez ?
+
+346
+00:30:29,764 --> 00:30:32,722
+Des pièces pour un Nubian 327 type J.
+
+347
+00:30:32,844 --> 00:30:36,723
+Du Nubian ! Ça manque pas !
+
+348
+00:30:37,444 --> 00:30:39,241
+Petit ! Viens là !
+
+349
+00:30:39,364 --> 00:30:41,161
+Mon droïde a les schémas des pièces.
+
+350
+00:30:43,684 --> 00:30:45,276
+Tu en mets, du temps !
+
+351
+00:30:46,084 --> 00:30:47,403
+Je nettoyais les ventilos.
+
+352
+00:30:47,524 --> 00:30:50,163
+Garde la boutique, j'ai un client.
+
+353
+00:30:50,284 --> 00:30:53,401
+Suis-moi.
+
+354
+00:30:53,524 --> 00:30:55,321
+On va te trouver ce que tu cherches.
+
+355
+00:30:57,724 --> 00:30:59,362
+Ne touche à rien.
+
+356
+00:31:09,284 --> 00:31:12,037
+Tu es un ange ?
+
+357
+00:31:12,164 --> 00:31:15,713
+Un ange. Les pilotes de long-courriers
+en parlent.
+
+358
+00:31:15,844 --> 00:31:18,597
+Ce sont les plus belles créatures
+de l'univers.
+
+359
+00:31:18,724 --> 00:31:21,192
+Elles vivent sur les lunes de lego.
+
+360
+00:31:21,964 --> 00:31:25,479
+Tu es drôle.
+Comment sais-tu tout ça ?
+
+361
+00:31:25,604 --> 00:31:29,279
+J'écoute les marchands
+et les pilotes qui passent.
+
+362
+00:31:29,404 --> 00:31:33,522
+Je suis pilote, moi aussi.
+Un jour je m'envolerai d'ici.
+
+363
+00:31:33,644 --> 00:31:37,432
+- Tu es pilote ?
+- Depuis toujours.
+
+364
+00:31:37,564 --> 00:31:39,759
+Il y a longtemps que tu es ici ?
+
+365
+00:31:39,884 --> 00:31:43,718
+Depuis que je suis tout petit.
+Je devais avoir 3 ans.
+
+366
+00:31:43,844 --> 00:31:46,438
+Maman et moi,
+on a été vendus à Gardulla la Hutt...
+
+367
+00:31:46,564 --> 00:31:49,158
+qui nous a perdus
+aux courses de modules.
+
+368
+00:31:49,284 --> 00:31:51,002
+Tu es esclave ?
+
+369
+00:31:51,124 --> 00:31:55,083
+- Je suis humain. Je m'appelle Anakin.
+- Pardon.
+
+370
+00:31:55,204 --> 00:31:58,799
+Je suis un peu dépaysée.
+
+371
+00:32:12,324 --> 00:32:13,996
+Appuie sur le nez.
+
+372
+00:32:18,484 --> 00:32:21,874
+Un générateur hyperdrive T-14 ?
+Tu as de la chance.
+
+373
+00:32:22,004 --> 00:32:24,518
+Je suis le seul à en avoir un.
+
+374
+00:32:24,644 --> 00:32:28,000
+Mais un vaisseau neuf
+te coûterait moins cher.
+
+375
+00:32:29,604 --> 00:32:33,313
+A propos, tu paies comment ?
+
+376
+00:32:33,444 --> 00:32:35,400
+J'ai 20.000 dataries républicaines.
+
+377
+00:32:35,524 --> 00:32:37,276
+Des crédits républicains ?
+
+378
+00:32:37,404 --> 00:32:40,202
+Ça vaut rien. Je veux du palpable.
+
+379
+00:32:40,324 --> 00:32:43,316
+Je n'ai que ça
+mais ça fera l'affaire.
+
+380
+00:32:43,444 --> 00:32:46,914
+- Non.
+- Ça fera l'affaire.
+
+381
+00:32:47,044 --> 00:32:48,796
+Non !
+
+382
+00:32:48,924 --> 00:32:53,998
+Tu te prends pour un Jedi ?
+Moi, je suis Toydarien !
+
+383
+00:32:54,484 --> 00:32:57,123
+Les trucs mentaux, ça marche pas.
+Je veux de l'argent.
+
+384
+00:32:57,924 --> 00:33:01,155
+Pas d'argent : Pas de pièces,
+pas d'affaire.
+
+385
+00:33:01,284 --> 00:33:05,641
+Et je suis le seul à avoir
+ton hyperdrive, je te le garantis.
+
+386
+00:33:12,244 --> 00:33:16,317
+J'aurais pas fait long feu
+si j'avais pas été bricoleur.
+
+387
+00:33:19,924 --> 00:33:21,721
+On s'en va.
+
+388
+00:33:24,244 --> 00:33:26,678
+Contente de t'avoir rencontré.
+
+389
+00:33:26,804 --> 00:33:28,556
+Moi aussi !
+
+390
+00:33:36,604 --> 00:33:40,961
+Ces étrangers !
+Ils croient qu'on n'y connaît rien !
+
+391
+00:33:41,084 --> 00:33:42,915
+Je les trouve gentils.
+
+392
+00:33:43,044 --> 00:33:44,875
+Nettoie les casiers...
+
+393
+00:33:45,004 --> 00:33:47,154
+et rentre chez toi.
+
+394
+00:33:53,924 --> 00:33:56,199
+{y:i}Et il n'y a rien d'autre, à bord ?
+
+395
+00:33:56,324 --> 00:33:58,121
+Un peu de matériel...
+
+396
+00:33:58,244 --> 00:34:03,523
+La garde-robe de la Reine...
+Ça ne fera pas assez d'argent.
+
+397
+00:34:03,644 --> 00:34:06,442
+On trouvera une autre solution.
+
+398
+00:34:06,564 --> 00:34:07,883
+Je rappellerai.
+
+399
+00:34:08,644 --> 00:34:10,236
+Pas encore !
+
+400
+00:34:10,364 --> 00:34:13,083
+Les ci-devant d'ici...
+tous des guedins !
+
+401
+00:34:13,204 --> 00:34:15,559
+Noussa dépouille et ratatine !
+
+402
+00:34:15,684 --> 00:34:18,721
+On n'a rien de valeur,
+c'est bien le problème.
+
+403
+00:34:33,364 --> 00:34:34,717
+Tu payes ?
+
+404
+00:34:36,644 --> 00:34:38,441
+C'est 7 wupiupi.
+
+405
+00:34:49,124 --> 00:34:50,921
+C'est à toi ?
+
+406
+00:34:51,044 --> 00:34:52,716
+Missa ?
+
+407
+00:34:56,724 --> 00:34:58,760
+Doucement, Sebulba.
+
+408
+00:34:58,884 --> 00:35:00,795
+C'est un puissant étranger.
+
+409
+00:35:00,924 --> 00:35:04,314
+Je veux que tu sois entier
+pour notre prochaine course.
+
+410
+00:35:04,444 --> 00:35:08,153
+La prochaine sera ta dernière, petit.
+
+411
+00:35:08,284 --> 00:35:11,196
+Je t'écrase pas tout de suite
+parce que tu es un esclave.
+
+412
+00:35:11,884 --> 00:35:14,603
+Oui, ça te coûterait trop cher !
+
+413
+00:35:18,804 --> 00:35:20,522
+Votre ami a failli
+se faire écrabouiller.
+
+414
+00:35:20,644 --> 00:35:22,441
+Il a provoqué un Dug.
+
+415
+00:35:22,564 --> 00:35:24,953
+Un Dug très dangereux : Sebulba.
+
+416
+00:35:25,084 --> 00:35:28,520
+Missa déteste ratatine.
+Jamais cherché bisbille !
+
+417
+00:35:28,644 --> 00:35:32,478
+Ce garçon a raison.
+Tu allais avoir des ennuis.
+
+418
+00:35:33,004 --> 00:35:34,403
+Merci, mon jeune ami.
+
+419
+00:35:36,604 --> 00:35:38,401
+Mais... missa rien fait !
+
+420
+00:35:46,564 --> 00:35:49,032
+Cette tempête va les retarder.
+
+421
+00:35:49,164 --> 00:35:50,597
+Ça a l'air sérieux.
+
+422
+00:35:51,884 --> 00:35:54,273
+- Panaka.
+{y:i}- Une liaison avec Naboo.
+
+423
+00:35:54,404 --> 00:35:56,122
+On arrive.
+
+424
+00:36:02,284 --> 00:36:04,354
+Goûtez-moi ces "pallies".
+
+425
+00:36:08,084 --> 00:36:10,279
+Mes os me font mal.
+
+426
+00:36:10,404 --> 00:36:14,761
+Une tempête se prépare, Ani.
+Rentre vite chez toi.
+
+427
+00:36:14,884 --> 00:36:17,603
+- Vous avez un abri ?
+- Notre vaisseau.
+
+428
+00:36:17,724 --> 00:36:20,192
+- Il est loin ?
+- A l'extérieur de la ville.
+
+429
+00:36:20,324 --> 00:36:22,599
+Vous n'y arriverez pas.
+
+430
+00:36:22,724 --> 00:36:26,433
+Les tempêtes de sable
+sont très dangereuses.
+
+431
+00:36:26,564 --> 00:36:28,919
+Je vous emmène chez moi.
+
+432
+00:36:43,044 --> 00:36:44,193
+Maman !
+
+433
+00:36:44,324 --> 00:36:47,873
+- C'est moi !
+- Très cosy !
+
+434
+00:36:48,004 --> 00:36:50,279
+Des amis, maman.
+
+435
+00:36:50,404 --> 00:36:53,794
+- Je suis Qui-Gon Jinn.
+- Je bâtis un droïde, tu veux le voir ?
+
+436
+00:36:53,924 --> 00:36:56,199
+Votre fils nous a offert un abri.
+
+437
+00:36:56,324 --> 00:36:58,201
+Viens voir 3PO.
+
+438
+00:37:07,604 --> 00:37:10,721
+Génial, hein ?
+II n'est pas encore fini
+
+439
+00:37:10,844 --> 00:37:12,072
+Il est magnifique.
+
+440
+00:37:13,284 --> 00:37:14,922
+Il te plaît ?
+
+441
+00:37:15,044 --> 00:37:17,842
+C'est un droïde de protocole,
+pour maman. Regarde.
+
+442
+00:37:22,084 --> 00:37:23,312
+Où êtes-vous ?
+
+443
+00:37:28,884 --> 00:37:32,035
+C-3PO,
+relations humains / cyborgs.
+
+444
+00:37:32,164 --> 00:37:33,961
+A votre service.
+
+445
+00:37:34,084 --> 00:37:36,757
+Il est parfait.
+
+446
+00:37:36,884 --> 00:37:40,274
+Après la tempête,
+je te montrerai mon module de course.
+
+447
+00:37:41,604 --> 00:37:44,038
+Ce sol n'est pas très stable.
+
+448
+00:37:44,164 --> 00:37:47,236
+Bonjour.
+Nous n'avons pas été présentés.
+
+449
+00:37:49,084 --> 00:37:51,234
+R2-D2 ? Enchanté.
+
+450
+00:37:51,364 --> 00:37:54,276
+C-3PO, relations humains/ cyborgs.
+
+451
+00:37:56,804 --> 00:37:59,876
+Pardon ?
+Qu'entendez-vous par "nu".
+
+452
+00:38:01,484 --> 00:38:04,601
+J'ai les puces à l'air ?
+Juste ciel !
+
+453
+00:38:09,044 --> 00:38:11,399
+{y:i}Nos pertes sont catastrophiques.
+
+454
+00:38:11,524 --> 00:38:13,799
+{y:i}Il faut accepter leurs conditions.
+
+455
+00:38:13,924 --> 00:38:15,880
+{y:i}Vous devez me contacter !
+
+456
+00:38:16,004 --> 00:38:18,564
+C'est un piège. Ne répondez pas.
+
+457
+00:38:18,684 --> 00:38:20,595
+N'envoyez aucun message.
+
+458
+00:38:22,804 --> 00:38:25,557
+Ce doit être un leurre,
+pour nous repérer.
+
+459
+00:38:25,684 --> 00:38:29,472
+Mais si c'était vrai ?
+S'il y avait des morts ?
+
+460
+00:38:29,604 --> 00:38:31,959
+Quoi qu'il en soit,
+le temps presse.
+
+461
+00:38:45,044 --> 00:38:47,080
+Tatooine est peu peuplée.
+
+462
+00:38:47,204 --> 00:38:49,877
+Si cette trace est la bonne,
+je les trouverai vite.
+
+463
+00:38:50,004 --> 00:38:51,801
+Occupe-toi d'abord des Jedi.
+
+464
+00:38:51,924 --> 00:38:56,440
+Il te sera ensuite facile de ramener
+la reine sur Naboo signer le traité.
+
+465
+00:38:56,564 --> 00:38:58,634
+Enfin,
+nous nous ferons connaître des Jedi.
+
+466
+00:38:58,764 --> 00:39:01,073
+Enfin,
+nous aurons notre revanche.
+
+467
+00:39:01,204 --> 00:39:03,957
+Tu as été bien formé,
+mon jeune apprenti.
+
+468
+00:39:04,084 --> 00:39:06,359
+Ils ne seront pas de taille.
+
+469
+00:39:11,044 --> 00:39:14,878
+Tout esclave a un émetteur implanté.
+
+470
+00:39:15,924 --> 00:39:18,802
+Je travaille à un scanner
+pour détecter le mien.
+
+471
+00:39:18,924 --> 00:39:22,280
+- Celui qui tente de s'évader...
+- Ils le font exploser !
+
+472
+00:39:23,164 --> 00:39:24,677
+Souvages !
+
+473
+00:39:24,804 --> 00:39:27,113
+L'esclavage existe encore ?
+
+474
+00:39:27,244 --> 00:39:29,041
+La loi républicaine...
+
+475
+00:39:29,164 --> 00:39:31,394
+La République n'existe pas, ici.
+
+476
+00:39:31,524 --> 00:39:33,594
+Nous sommes isolés.
+
+477
+00:39:34,564 --> 00:39:35,997
+Pardon.
+
+478
+00:39:38,004 --> 00:39:40,438
+Quelqu'un a déjà vu
+une course de modules ?
+
+479
+00:39:40,564 --> 00:39:42,282
+II y en a sur Malastare.
+
+480
+00:39:42,404 --> 00:39:44,998
+Très rapides.
+Très dangereuses.
+
+481
+00:39:45,764 --> 00:39:47,561
+Je suis le seul humain
+à y arriver.
+
+482
+00:39:47,684 --> 00:39:50,562
+Tu dois avoir des réflexes de Jedi.
+
+483
+00:39:51,644 --> 00:39:52,963
+Ne refais jamais ça !
+
+484
+00:39:58,204 --> 00:40:00,672
+Vous êtes un chevalier Jedi.
+
+485
+00:40:03,524 --> 00:40:06,277
+- Qu'est-ce qui te fait dire ça ?
+- J'ai vu votre sabre laser.
+
+486
+00:40:06,404 --> 00:40:09,157
+Seuls les Jedi ont ce type d'armes.
+
+487
+00:40:09,284 --> 00:40:12,276
+J'ai pu le prendre
+à un Jedi que j'aurais tué.
+
+488
+00:40:12,404 --> 00:40:13,962
+Ça m'étonnerait !
+
+489
+00:40:14,084 --> 00:40:16,154
+Personne ne peut tuer un Jedi.
+
+490
+00:40:16,964 --> 00:40:18,920
+J'aimerais que ce soit vrai.
+
+491
+00:40:19,044 --> 00:40:21,000
+J'ai rêvé que j'étais un Jedi.
+
+492
+00:40:21,124 --> 00:40:24,161
+Je revenais ici libérer les esclaves.
+
+493
+00:40:24,284 --> 00:40:27,481
+- Vous venez nous libérer ?
+- Je crains que non.
+
+494
+00:40:27,604 --> 00:40:31,756
+Je crois que si.
+Pourquoi vous seriez venu ?
+
+495
+00:40:36,444 --> 00:40:39,083
+Je vois qu'on ne te trompe pas.
+
+496
+00:40:39,204 --> 00:40:44,119
+Nous nous rendons à Coruscant
+pour une importante mission.
+
+497
+00:40:44,244 --> 00:40:47,156
+Que faites-vous ici, dans la Bordure ?
+
+498
+00:40:47,284 --> 00:40:50,754
+Nous attendons de pouvoir réparer
+notre vaisseau.
+
+499
+00:40:51,964 --> 00:40:55,036
+Je peux vous aider.
+Je sais tout réparer.
+
+500
+00:40:55,164 --> 00:40:56,597
+Je n'en doute pas.
+
+501
+00:40:56,724 --> 00:40:59,397
+Il nous faut d'abord
+acheter des pièces.
+
+502
+00:40:59,524 --> 00:41:02,118
+Sans macache monnaie !
+
+503
+00:41:02,244 --> 00:41:05,634
+Ces ferrailleurs ont sûrement
+un point faible.
+
+504
+00:41:05,764 --> 00:41:11,202
+Les paris ! Ici tout tourne autour
+de ces horribles courses de modules !
+
+505
+00:41:11,324 --> 00:41:14,122
+L'appât du gain
+est un puissant allié.
+
+506
+00:41:14,244 --> 00:41:16,997
+J'ai construit un module.
+Le plus rapide.
+
+507
+00:41:17,124 --> 00:41:19,319
+C'est la course de la Bounta demain.
+
+508
+00:41:19,444 --> 00:41:21,321
+Alignez mon module.
+
+509
+00:41:22,244 --> 00:41:25,156
+- Anakin ! Watto ne voudra pas.
+- Il ne sait pas que j'en ai un.
+
+510
+00:41:25,284 --> 00:41:27,081
+Dites que c'est le vôtre...
+
+511
+00:41:27,204 --> 00:41:29,320
+et exigez que je le pilote.
+
+512
+00:41:29,444 --> 00:41:33,483
+Non. Je meurs d'inquiétude
+quand Watto te fait courir.
+
+513
+00:41:33,604 --> 00:41:35,640
+Mais j'adore ça !
+
+514
+00:41:35,764 --> 00:41:39,154
+La prime leur permettrait
+d'acheter leurs pièces.
+
+515
+00:41:41,604 --> 00:41:44,243
+Ta mère a raison.
+
+516
+00:41:44,364 --> 00:41:47,322
+Y a-t-il un ami de la République
+qui pourrait nous aider ?
+
+517
+00:41:55,244 --> 00:41:59,681
+Tu dis que dans cet univers
+il n'y a pas assez d'entraide.
+
+518
+00:42:04,324 --> 00:42:07,077
+Je suis sûre que Qui-Gon
+ne veut pas exposer votre fils
+
+519
+00:42:07,204 --> 00:42:09,035
+Nous trouverons un autre moyen.
+
+520
+00:42:11,404 --> 00:42:13,759
+Non... Il n'y a pas d'autre moyen.
+
+521
+00:42:13,884 --> 00:42:18,036
+Ça ne me plaît pas,
+mais il peut vous aider.
+
+522
+00:42:18,884 --> 00:42:20,681
+Il y est prédestiné.
+
+523
+00:42:33,684 --> 00:42:35,481
+Vous êtes sûr ?
+
+524
+00:42:35,604 --> 00:42:38,118
+S'en remettre à un inconnu...
+
+525
+00:42:38,244 --> 00:42:40,200
+la reine désapprouvera.
+
+526
+00:42:40,324 --> 00:42:42,121
+Inutile qu'elle le sache !
+
+527
+00:42:43,204 --> 00:42:44,762
+Moi, je désapprouve.
+
+528
+00:42:45,844 --> 00:42:48,358
+Tu le sponsorises pour la course ?
+
+529
+00:42:48,484 --> 00:42:50,042
+Comment ?
+
+530
+00:42:50,164 --> 00:42:53,315
+Pas avec des crédits républicains
+en tout cas !
+
+531
+00:42:53,444 --> 00:42:55,514
+J'engage mon vaisseau.
+
+532
+00:42:56,004 --> 00:43:00,600
+Pas mal ! Un Nubian ?
+
+533
+00:43:00,724 --> 00:43:03,875
+En parfait état,
+sauf les pièces que je cherche.
+
+534
+00:43:04,004 --> 00:43:06,393
+Et il pilotera quoi ?
+
+535
+00:43:06,524 --> 00:43:09,914
+II a fracassé mon module.
+Il n'est pas près d'être réparé.
+
+536
+00:43:10,044 --> 00:43:13,957
+C'est pas ma faute. Sebulba
+m'a aveuglé avec ses réacteurs.
+
+537
+00:43:14,084 --> 00:43:17,315
+J'ai sauvé le module
+en partie.
+
+538
+00:43:18,404 --> 00:43:20,759
+C'est vrai !
+
+539
+00:43:20,884 --> 00:43:23,557
+Le petit est fort, c'est sûr.
+
+540
+00:43:23,684 --> 00:43:26,073
+J'ai gagné un module au jeu.
+
+541
+00:43:26,204 --> 00:43:27,796
+Le plus rapide qui soit !
+
+542
+00:43:27,924 --> 00:43:32,839
+J'espère que tu n'as pas tué
+une de mes connaissances pour ça.
+
+543
+00:43:34,724 --> 00:43:38,114
+Tu fournis module
+et droits d'inscription.
+
+544
+00:43:38,244 --> 00:43:39,563
+Moi, le garçon.
+
+545
+00:43:39,684 --> 00:43:43,393
+On partage les gains 50-50 ?
+
+546
+00:43:43,524 --> 00:43:47,961
+Si on fait 50-50,
+tu avances l'argent de l'inscription.
+
+547
+00:43:48,084 --> 00:43:50,040
+Si nous gagnons...
+
+548
+00:43:50,164 --> 00:43:53,793
+la prime est pour toi,
+moins le prix de mes pièces.
+
+549
+00:43:53,924 --> 00:43:56,996
+Si nous perdons,
+mon vaisseau est à toi.
+
+550
+00:43:59,364 --> 00:44:00,717
+Dans les deux cas, tu gagnes.
+
+551
+00:44:06,284 --> 00:44:07,558
+Banco !
+
+552
+00:44:12,564 --> 00:44:16,637
+M'est avis que ton ami est idiot.
+
+553
+00:44:24,284 --> 00:44:27,082
+Et si ce plan échoue, maître ?
+
+554
+00:44:27,204 --> 00:44:29,798
+Nous serons bloqués ici
+pour très longtemps.
+
+555
+00:44:29,924 --> 00:44:32,358
+{y:i}Pas question d'appeler à l'aide...
+
+556
+00:44:32,484 --> 00:44:35,715
+et avec un vaisseau en panne,
+nous n'irons nulle part.
+
+557
+00:44:35,844 --> 00:44:37,721
+Et puis...
+
+558
+00:44:37,844 --> 00:44:39,641
+ce garçon a quelque chose.
+
+559
+00:44:46,204 --> 00:44:48,434
+Soyez fière de votre fils
+
+560
+00:44:49,164 --> 00:44:51,394
+Il donne sans rien attendre.
+
+561
+00:44:51,524 --> 00:44:55,437
+Il n'est pas envieux. Il a...
+
+562
+00:44:56,404 --> 00:44:58,201
+Il a des pouvoirs spéciaux.
+
+563
+00:45:01,204 --> 00:45:03,718
+Il voit les choses
+avant qu'elles arrivent.
+
+564
+00:45:03,844 --> 00:45:06,517
+D'où la fulgurance de ses réflexes.
+
+565
+00:45:06,644 --> 00:45:08,441
+C'est la marque des Jedi.
+
+566
+00:45:08,564 --> 00:45:11,237
+Il mérite mieux qu'une vie d'esclave.
+
+567
+00:45:11,364 --> 00:45:14,595
+S'il était né dans la République,
+il aurait été reconnu plus tôt.
+
+568
+00:45:16,924 --> 00:45:20,519
+La Force est d'une rare intensité
+chez lui. C'est clair.
+
+569
+00:45:20,644 --> 00:45:22,316
+Qui est son père ?
+
+570
+00:45:24,924 --> 00:45:26,755
+II n'a pas eu de père.
+
+571
+00:45:28,164 --> 00:45:31,361
+Je l'ai porté, je l'ai mis au monde,
+je l'ai élevé.
+
+572
+00:45:32,204 --> 00:45:34,593
+Je ne peux l'expliquer.
+
+573
+00:45:36,204 --> 00:45:37,922
+Vous pouvez l'aider ?
+
+574
+00:45:38,044 --> 00:45:39,841
+Je ne sais pas.
+
+575
+00:45:42,244 --> 00:45:45,714
+Je ne suis pas venu
+libérer les esclaves.
+
+576
+00:45:58,324 --> 00:46:00,121
+Un vrai astrodroïde !
+
+577
+00:46:01,964 --> 00:46:05,559
+- Tu as de la chance !
+- Et ça, c'est encore rien !
+
+578
+00:46:05,684 --> 00:46:08,517
+Je dispute la course de la Bounta,
+demain.
+
+579
+00:46:08,644 --> 00:46:10,282
+Avec ça ?
+
+580
+00:46:10,404 --> 00:46:13,043
+Sacré farceur !
+
+581
+00:46:13,164 --> 00:46:16,236
+- Tu le bricoles depuis des années !
+- Il marchera jamais.
+
+582
+00:46:16,364 --> 00:46:18,434
+Venez jouer au ballon.
+
+583
+00:46:18,564 --> 00:46:21,715
+Continue comme ça
+et tu finiras écrabouillé !
+
+584
+00:46:29,924 --> 00:46:32,199
+Éloigne-toi des connecteurs.
+
+585
+00:46:32,324 --> 00:46:35,600
+Si tu y mets la main,
+c'est l'ankylose assurée.
+
+586
+00:46:40,644 --> 00:46:43,078
+Missa langue épaisse.
+
+587
+00:46:43,204 --> 00:46:46,162
+Missa langue... La clé...
+
+588
+00:46:46,284 --> 00:46:48,844
+Ousséké la clé ?
+Là !
+
+589
+00:46:53,124 --> 00:46:54,603
+Missa coincé. Ani !
+
+590
+00:46:54,724 --> 00:46:58,558
+Ce Jar Jar est une étrange créature.
+
+591
+00:47:00,324 --> 00:47:03,043
+Tu sais même pas s'il marche.
+
+592
+00:47:03,164 --> 00:47:05,155
+- Il va marcher.
+- On va voir.
+
+593
+00:47:05,284 --> 00:47:07,400
+Voilà une cellule d'énergie.
+
+594
+00:47:07,524 --> 00:47:09,480
+Kitster, éloignons-nous.
+
+595
+00:47:09,604 --> 00:47:11,720
+Missa bouche !
+
+596
+00:47:11,844 --> 00:47:13,118
+Ani ! Missa coincé !
+
+597
+00:47:20,324 --> 00:47:23,157
+Tu as raison. Très étrange.
+
+598
+00:47:25,284 --> 00:47:27,240
+Merci.
+
+599
+00:47:27,364 --> 00:47:28,717
+Go !
+
+600
+00:47:42,644 --> 00:47:46,114
+Ça marche ! Ça marche !
+
+601
+00:47:56,324 --> 00:47:58,713
+Ne bouge pas. Je nettoie ça.
+
+602
+00:47:58,844 --> 00:48:02,598
+Il y a tant d'étoiles !
+Ont-elles toutes un système ?
+
+603
+00:48:02,724 --> 00:48:04,521
+La plupart.
+
+604
+00:48:04,644 --> 00:48:06,521
+Quelqu'un
+les a toutes visitées ?
+
+605
+00:48:08,164 --> 00:48:09,313
+Ça m'étonnerait.
+
+606
+00:48:10,404 --> 00:48:12,520
+Je veux être le premier.
+
+607
+00:48:13,684 --> 00:48:15,959
+Ani ! Au lit !
+
+608
+00:48:16,084 --> 00:48:18,723
+Voilà. Comme neuf.
+
+609
+00:48:18,844 --> 00:48:21,597
+Ani !
+Je ne te le répéterai pas !
+
+610
+00:48:21,724 --> 00:48:25,000
+- Que faites-vous ?
+- J'analyse ton sang en cas d'infection.
+
+611
+00:48:25,124 --> 00:48:26,603
+Vas-y.
+
+612
+00:48:26,724 --> 00:48:28,601
+Demain est un grand jour pour toi.
+
+613
+00:48:28,724 --> 00:48:30,521
+Dors bien.
+
+614
+00:48:33,164 --> 00:48:35,075
+- Obi-Wan.
+{y:i}- Oui, maître.
+
+615
+00:48:35,204 --> 00:48:37,798
+Je t'envoie du sang pour analyse.
+
+616
+00:48:37,924 --> 00:48:39,562
+Tout de suite.
+
+617
+00:48:41,204 --> 00:48:43,081
+Je veux le taux
+de midi-chloriens.
+
+618
+00:48:45,924 --> 00:48:48,438
+Ça bat tous les records.
+
+619
+00:48:48,564 --> 00:48:50,361
+Plus de vingt mille !
+
+620
+00:48:50,484 --> 00:48:53,954
+{y:i}Maître Yoda lui-même n'a pas
+{y:i}autant de midi-chloriens.
+
+621
+00:48:54,084 --> 00:48:55,802
+Aucun Jedi n'en a autant.
+
+622
+00:48:55,924 --> 00:48:57,880
+Qu'est-ce que ça signifie ?
+
+623
+00:48:58,724 --> 00:49:00,282
+Je n'en suis pas sûr.
+
+624
+00:50:07,364 --> 00:50:10,117
+Je veux voir ton vaisseau
+dès la fin de la course.
+
+625
+00:50:10,244 --> 00:50:11,916
+Patience, ami bleu.
+
+626
+00:50:12,044 --> 00:50:14,194
+Tu auras tes gains
+avant le coucher des soleils.
+
+627
+00:50:14,324 --> 00:50:16,042
+Et nous serons loin.
+
+628
+00:50:16,164 --> 00:50:20,043
+Pas si ton vaisseau est à moi !
+
+629
+00:50:20,164 --> 00:50:23,395
+Attention ! Pas d'entourloupe !
+
+630
+00:50:23,524 --> 00:50:26,516
+- Tu doutes de la victoire d'Anakin ?
+- J'ai pas dit ça !
+
+631
+00:50:26,644 --> 00:50:28,999
+Je crois en lui.
+
+632
+00:50:29,124 --> 00:50:31,160
+Il fait honneur à votre espèce.
+
+633
+00:50:31,284 --> 00:50:34,356
+Mais c'est Sebulba
+qui va gagner, m'est avis.
+
+634
+00:50:42,084 --> 00:50:43,836
+Pourquoi ?
+
+635
+00:50:43,964 --> 00:50:45,761
+II gagne toujours !
+
+636
+00:50:47,684 --> 00:50:50,039
+Je mise le paquet sur Sebulba.
+
+637
+00:50:51,804 --> 00:50:54,398
+- Je tiens le pari.
+- Quoi ?
+
+638
+00:50:55,124 --> 00:50:58,321
+Je parie mon nouveau module contre...
+
+639
+00:50:58,444 --> 00:51:00,241
+le garçon et sa mère.
+
+640
+00:51:00,364 --> 00:51:03,913
+Aucun module ne vaut deux esclaves !
+
+641
+00:51:04,804 --> 00:51:06,476
+Le garçon, alors.
+
+642
+00:51:12,444 --> 00:51:14,833
+Laissons le sort décider.
+
+643
+00:51:14,964 --> 00:51:18,240
+J'ai un "cube du destin" sur moi.
+
+644
+00:51:18,364 --> 00:51:21,276
+Bleu, le garçon.
+
+645
+00:51:21,404 --> 00:51:22,473
+Rouge...
+
+646
+00:51:23,844 --> 00:51:25,402
+sa mère.
+
+647
+00:51:34,724 --> 00:51:37,033
+Tu as gagné ce coup-là...
+
+648
+00:51:37,164 --> 00:51:39,200
+mais tu ne gagneras pas la course.
+
+649
+00:51:39,324 --> 00:51:41,315
+Ça ne change pas grand-chose !
+
+650
+00:51:50,724 --> 00:51:55,434
+Si ton ami continue à parier comme ça
+il finira par m'appartenir aussi !
+
+651
+00:51:59,044 --> 00:52:01,433
+- Que veut-il dire ?
+- Je t'expliquerai.
+
+652
+00:52:01,564 --> 00:52:02,883
+Bonjour.
+
+653
+00:52:04,924 --> 00:52:07,563
+Voyager dans l'espace
+me semble périlleux.
+
+654
+00:52:09,564 --> 00:52:13,398
+On ne me fera pas monter
+dans ces effroyables vaisseaux !
+
+655
+00:52:13,524 --> 00:52:16,755
+C'est génial !
+Tu vas y arriver, cette fois.
+
+656
+00:52:16,884 --> 00:52:17,919
+A quoi ?
+
+657
+00:52:18,044 --> 00:52:20,956
+A terminer la course.
+
+658
+00:52:21,084 --> 00:52:22,756
+Tu n'as jamais gagné ?
+
+659
+00:52:22,884 --> 00:52:25,478
+Pas vraiment.
+
+660
+00:52:25,604 --> 00:52:27,515
+Ni même terminé ?
+
+661
+00:52:27,644 --> 00:52:29,999
+Je vais gagner, cette fois.
+
+662
+00:52:30,124 --> 00:52:32,080
+Bien sûr.
+
+663
+00:53:00,524 --> 00:53:03,880
+Tout à fait !
+Un public très nombreux...
+
+664
+00:53:04,084 --> 00:53:07,235
+{y:i}venu des quatre coins
+{y:i}de la Bordure extérieure.
+
+665
+00:53:07,364 --> 00:53:10,834
+{y:i}Les concurrents se dirigent
+{y:i}vers la grille de départ.
+
+666
+00:53:12,844 --> 00:53:15,563
+{y:i}Ben Quadrinaros
+{y:i}du système de Tund.
+
+667
+00:53:21,004 --> 00:53:23,359
+{y:i}Boles Roor, deux fois vainqueur.
+
+668
+00:53:25,804 --> 00:53:27,522
+{y:i}Sebulba !
+
+669
+00:53:37,524 --> 00:53:40,482
+Et sur la première rangée,
+à côté de la pole position...
+
+670
+00:53:40,604 --> 00:53:42,515
+{y:i}Mawhonic !
+
+671
+00:53:43,684 --> 00:53:45,640
+{y:i}Bien le bonjour...
+
+672
+00:53:45,764 --> 00:53:49,313
+{y:i}à Clegg Holdfast
+{y:i}et sa Guêpe Voltec KT9 !
+
+673
+00:53:52,204 --> 00:53:55,082
+{y:i}Encore une fois de retour,
+{y:i}le puissant Dud Bolt...
+
+674
+00:53:55,204 --> 00:53:59,595
+{y:i}avec son incroyable machine
+{y:i}de course, la Vulptereen 327.
+
+675
+00:54:02,804 --> 00:54:04,999
+{y:i}Comptant l'emporter aujourd'hui...
+
+676
+00:54:05,124 --> 00:54:09,356
+{y:i}Ody Mandrell, avec son incroyable
+{y:i}équipe de ravitaillement droïde.
+
+677
+00:54:14,044 --> 00:54:18,515
+{y:i}Et un concurrent de dernière minute,
+{y:i}Anakin Skywalker, un indigène.
+
+678
+00:54:21,124 --> 00:54:23,274
+Les étendards se mettent en place.
+
+679
+00:54:38,484 --> 00:54:39,633
+Pouahssa !
+
+680
+00:54:42,684 --> 00:54:44,163
+Sois prudent !
+
+681
+00:54:44,284 --> 00:54:46,514
+Je te le promets, maman.
+
+682
+00:55:02,044 --> 00:55:04,604
+Tu n'en sortiras pas vivant...
+
+683
+00:55:04,724 --> 00:55:06,874
+sale esclave !
+
+684
+00:55:07,004 --> 00:55:10,121
+Compte là-dessus, limace !
+
+685
+00:55:10,244 --> 00:55:12,519
+Tu n'es que de la chair à Bantha !
+
+686
+00:55:16,924 --> 00:55:19,040
+Tu es prêt ?
+
+687
+00:55:24,684 --> 00:55:27,198
+N'oublie pas !
+Concentre-toi sur l'instant.
+
+688
+00:55:27,324 --> 00:55:30,919
+Ressens. Ne pense pas.
+Fie-toi à ton instinct.
+
+689
+00:55:31,044 --> 00:55:32,602
+D'accord.
+
+690
+00:55:32,724 --> 00:55:34,840
+Que la Force soit avec toi !
+
+691
+00:55:55,164 --> 00:55:59,396
+Bienvenue.
+
+692
+00:56:00,324 --> 00:56:03,441
+Que la course commence !
+
+693
+00:56:13,564 --> 00:56:16,601
+{y:i}Ça y est, on dégage la piste !
+
+694
+00:56:17,764 --> 00:56:19,561
+- Il est nerveux ?
+- Pas du tout.
+
+695
+00:56:21,124 --> 00:56:23,877
+Vous êtes trop sûrs de vous, les Jedi.
+La reine ne...
+
+696
+00:56:24,004 --> 00:56:26,757
+La reine me fait confiance,
+jeune suivante.
+
+697
+00:56:26,884 --> 00:56:29,000
+Faites-en autant.
+
+698
+00:56:29,124 --> 00:56:31,115
+Présomptueux !
+
+699
+00:56:31,844 --> 00:56:34,153
+{y:i}Mise à feu !
+
+700
+00:57:11,844 --> 00:57:15,041
+Ça va bastonne !
+Missa pas voir ça !
+
+701
+00:57:40,884 --> 00:57:44,035
+Le petit Skywalker a calé !
+
+702
+00:57:54,404 --> 00:57:58,033
+{y:i}Quadrinaros aussi
+{y:i}a des problèmes mécaniques.
+
+703
+00:57:59,644 --> 00:58:00,872
+Allez, Ani !
+
+704
+00:58:07,044 --> 00:58:08,557
+{y:i}Skywalker est parti !
+
+705
+00:58:10,204 --> 00:58:12,240
+{y:i}II aura du mal à remonter.
+
+706
+00:59:23,324 --> 00:59:28,444
+{y:i}Des pillards tusken campent
+{y:i}dans le virage du canyon-dune !
+
+707
+00:59:39,204 --> 00:59:42,753
+Quadrinaros
+a perdu son coupleur d'énergie !
+
+708
+01:00:16,084 --> 01:00:17,881
+Où est messire Anakin ?
+
+709
+01:00:21,004 --> 01:00:23,120
+Le voilà !
+
+710
+01:00:25,884 --> 01:00:28,114
+{y:i}Skywalker remonte !
+
+711
+01:00:37,524 --> 01:00:40,960
+II doit encore accomplir deux tours ?
+Fichtre !
+
+712
+01:01:45,804 --> 01:01:47,601
+Skywalker dérape, il perd
+la maîtrise de son bolide !
+
+713
+01:02:43,164 --> 01:02:46,952
+Qu'on soit de cet univers
+ou d'ailleurs, ça doit faire mal !
+
+714
+01:02:53,724 --> 01:02:55,362
+Le voilà !
+
+715
+01:02:55,484 --> 01:02:58,476
+{y:i}Au dernier tour, Sebulba est en tête...
+
+716
+01:02:58,604 --> 01:03:00,993
+{y:i}talonné par Skywalker !
+
+717
+01:03:27,884 --> 01:03:30,114
+II l'a rabattu
+sur la rampe de service !
+
+718
+01:03:50,924 --> 01:03:52,243
+C'est Skywalker !
+
+719
+01:03:54,564 --> 01:03:58,637
+Super ! Une reprise fulgurante
+et le revoilà dans la course !
+
+720
+01:03:58,764 --> 01:04:00,436
+Lissa crashé ?
+
+721
+01:04:39,724 --> 01:04:42,796
+Skywalker a des ennuis.
+Sebulba prend la tête !
+
+722
+01:05:33,644 --> 01:05:35,236
+II rattrape Sebulba !
+
+723
+01:05:36,324 --> 01:05:38,713
+Attention, Ani !
+
+724
+01:06:07,844 --> 01:06:10,119
+Le petit humain est fou !
+
+725
+01:06:11,204 --> 01:06:12,319
+{y:i}Ils sont côte à côte !
+
+726
+01:06:45,644 --> 01:06:47,282
+Incroyable !
+
+727
+01:06:47,404 --> 01:06:49,235
+Le public est en délire !
+
+728
+01:07:01,044 --> 01:07:03,956
+Maman ! J'ai réussi !
+
+729
+01:07:14,044 --> 01:07:15,841
+Bravo, Ani !
+
+730
+01:07:20,044 --> 01:07:21,921
+On te doit tout.
+
+731
+01:07:24,444 --> 01:07:26,480
+C'est merveilleux.
+
+732
+01:07:26,604 --> 01:07:29,198
+Tu apportes l'espoir
+à ceux qui n'en avaient pas.
+
+733
+01:07:29,324 --> 01:07:31,440
+Je suis fière de toi.
+
+734
+01:07:41,484 --> 01:07:43,281
+Toi !
+
+735
+01:07:43,404 --> 01:07:45,599
+Tu m'as entourloupé.
+
+736
+01:07:45,724 --> 01:07:49,353
+Je ne sais pas comment, mais
+tu savais qu'il allait gagner !
+
+737
+01:07:49,484 --> 01:07:51,281
+J'ai tout perdu.
+
+738
+01:07:51,404 --> 01:07:54,794
+Quand on joue,
+il faut s'attendre à perdre.
+
+739
+01:07:54,924 --> 01:07:57,279
+Apporte les pièces dans le hangar.
+
+740
+01:07:57,404 --> 01:08:00,362
+Je passerai à ta boutique
+chercher le garçon.
+
+741
+01:08:00,484 --> 01:08:03,635
+Tu l'auras pas.
+C'était pas régulier.
+
+742
+01:08:06,284 --> 01:08:09,594
+Veux-tu en parler aux Hutts ?
+
+743
+01:08:09,724 --> 01:08:12,113
+Ils trancheraient.
+
+744
+01:08:13,564 --> 01:08:15,361
+Emmène-le !
+
+745
+01:08:24,604 --> 01:08:26,595
+Voici nos pièces.
+
+746
+01:08:26,724 --> 01:08:27,713
+J'y retourne.
+
+747
+01:08:27,844 --> 01:08:29,835
+Une affaire à terminer.
+
+748
+01:08:29,964 --> 01:08:33,274
+Aurions-nous encore hérité
+d'une pitoyable créature ?
+
+749
+01:08:34,044 --> 01:08:37,036
+C'est le garçon
+à qui nous devons ces pièces.
+
+750
+01:08:37,164 --> 01:08:38,961
+Remonte le générateur.
+
+751
+01:08:39,084 --> 01:08:41,518
+Bien, maître.
+Ce ne sera pas long.
+
+752
+01:08:48,164 --> 01:08:49,961
+C'est pour toi.
+
+753
+01:08:54,695 --> 01:08:57,334
+On a vendu le module !
+Regarde l'argent !
+
+754
+01:08:57,455 --> 01:08:59,730
+C'est merveilleux, Ani !
+
+755
+01:08:59,855 --> 01:09:02,688
+- Et il a été affranchi.
+- Quoi ?
+
+756
+01:09:02,815 --> 01:09:04,533
+Tu n'es plus esclave.
+
+757
+01:09:06,375 --> 01:09:08,206
+Tu as entendu ?
+
+758
+01:09:08,975 --> 01:09:11,330
+Tu peux réaliser tes rêves.
+
+759
+01:09:12,175 --> 01:09:14,006
+Tu es libre.
+
+760
+01:09:17,455 --> 01:09:18,854
+Vous l'emmenez ?
+
+761
+01:09:18,975 --> 01:09:20,533
+II deviendra un Jedi ?
+
+762
+01:09:20,655 --> 01:09:23,089
+Oui.
+Nous devions nous rencontrer.
+
+763
+01:09:23,895 --> 01:09:25,487
+Rien n'arrive par hasard.
+
+764
+01:09:25,615 --> 01:09:29,005
+Je vais partir avec vous
+dans votre vaisseau ?
+
+765
+01:09:32,335 --> 01:09:35,486
+L'initiation pour devenir un Jedi
+n'est pas facile.
+
+766
+01:09:35,615 --> 01:09:38,368
+Et, si tu y arrives,
+c'est une vie très dure.
+
+767
+01:09:38,495 --> 01:09:41,532
+Je veux partir !
+J'en ai toujours rêvé.
+
+768
+01:09:42,335 --> 01:09:44,371
+Je peux, maman ?
+
+769
+01:09:47,015 --> 01:09:49,813
+Cette voie s'offre à toi.
+
+770
+01:09:49,935 --> 01:09:52,290
+C'est à toi de décider.
+
+771
+01:09:55,815 --> 01:09:57,612
+Je veux le faire.
+
+772
+01:10:00,095 --> 01:10:02,211
+Alors, prépare-toi.
+Le temps presse.
+
+773
+01:10:08,575 --> 01:10:10,088
+Et maman ?
+
+774
+01:10:13,095 --> 01:10:14,892
+Elle est libre ?
+
+775
+01:10:15,015 --> 01:10:18,371
+J'ai essayé d'obtenir sa libération.
+Watto a refusé.
+
+776
+01:10:19,375 --> 01:10:21,252
+Mais tu viens avec nous ?
+
+777
+01:10:28,935 --> 01:10:32,132
+Ma place et mon avenir sont ici.
+
+778
+01:10:32,255 --> 01:10:34,530
+Tu dois voler
+de tes propres ailes.
+
+779
+01:10:35,615 --> 01:10:37,651
+Je voudrais que rien ne change.
+
+780
+01:10:37,775 --> 01:10:40,050
+On ne peut empêcher le changement.
+
+781
+01:10:40,175 --> 01:10:43,133
+Pas plus que la course des soleils.
+
+782
+01:10:44,175 --> 01:10:46,006
+Je t'aime.
+
+783
+01:10:51,455 --> 01:10:53,252
+Maintenant, fais vite.
+
+784
+01:10:58,575 --> 01:10:59,894
+Merci.
+
+785
+01:11:00,015 --> 01:11:02,813
+Je veillerai sur lui.
+Je vous le promets.
+
+786
+01:11:04,975 --> 01:11:06,408
+Ça ira ?
+
+787
+01:11:15,695 --> 01:11:20,086
+J'ai été affranchi
+et je pars dans un vaisseau spatial.
+
+788
+01:11:20,215 --> 01:11:23,013
+Vous êtes mon créateur
+et je veux votre bien...
+
+789
+01:11:23,135 --> 01:11:27,174
+mais j'eusse préféré
+être un peu plus... élaboré.
+
+790
+01:11:27,295 --> 01:11:30,287
+Désolé de ne pas t'avoir fini...
+
+791
+01:11:30,415 --> 01:11:32,371
+surtout au niveau de l'habillage.
+
+792
+01:11:32,495 --> 01:11:34,053
+Tu me manqueras.
+
+793
+01:11:34,175 --> 01:11:36,530
+Tu étais un super copain.
+
+794
+01:11:36,655 --> 01:11:39,169
+Je dirai à maman de pas te vendre.
+
+795
+01:11:39,935 --> 01:11:40,924
+Me vendre !
+
+796
+01:12:07,695 --> 01:12:09,811
+Je ne peux pas, maman.
+
+797
+01:12:13,935 --> 01:12:15,846
+Je te reverrai un jour ?
+
+798
+01:12:17,255 --> 01:12:20,008
+Que te dit ton cœur ?
+
+799
+01:12:21,295 --> 01:12:23,126
+J'espère.
+
+800
+01:12:23,855 --> 01:12:25,652
+Oui.
+
+801
+01:12:25,775 --> 01:12:27,288
+Je crois.
+
+802
+01:12:28,295 --> 01:12:30,763
+Alors, nous nous reverrons.
+
+803
+01:12:33,375 --> 01:12:36,048
+Je reviendrai te libérer.
+
+804
+01:12:36,175 --> 01:12:37,813
+Je te le promets.
+
+805
+01:12:45,735 --> 01:12:48,568
+Maintenant, sois courageux.
+
+806
+01:12:49,335 --> 01:12:51,246
+Et ne te retourne pas.
+
+807
+01:12:52,015 --> 01:12:53,812
+Ne te retourne pas.
+
+808
+01:13:36,575 --> 01:13:37,610
+Attendez-moi !
+
+809
+01:13:37,735 --> 01:13:39,407
+- Je suis fatigué !
+- Baisse-toi !
+
+810
+01:13:43,695 --> 01:13:45,526
+Dis-leur de décoller !
+
+811
+01:13:57,615 --> 01:13:59,014
+Qui-Gon a un problème.
+
+812
+01:14:00,255 --> 01:14:01,574
+Décollez.
+
+813
+01:14:02,255 --> 01:14:03,927
+Par là !
+
+814
+01:14:24,655 --> 01:14:27,533
+- Ça va ?
+- Je crois.
+
+815
+01:14:27,655 --> 01:14:29,134
+Qu'est-ce que c'était ?
+
+816
+01:14:29,255 --> 01:14:30,927
+Je ne suis pas sûr.
+
+817
+01:14:31,055 --> 01:14:33,489
+Mais il maîtrisait les arts jedi.
+
+818
+01:14:33,735 --> 01:14:36,010
+Je pense qu'il cherche la reine.
+
+819
+01:14:36,135 --> 01:14:38,524
+Qu'est-ce qu'on va faire ?
+
+820
+01:14:40,415 --> 01:14:41,973
+Faire preuve de patience.
+
+821
+01:14:42,095 --> 01:14:43,164
+Anakin Skywalker...
+
+822
+01:14:43,295 --> 01:14:45,013
+Obi-Wan Kenobi.
+
+823
+01:14:47,335 --> 01:14:49,769
+Vous êtes un Jedi, vous aussi ?
+Enchanté.
+
+824
+01:14:58,375 --> 01:15:00,809
+Votre reine a disparu,
+votre peuple est affamé...
+
+825
+01:15:00,935 --> 01:15:05,008
+et vous, gouverneur,
+mourrez avant les autres.
+
+826
+01:15:05,135 --> 01:15:07,524
+Cette invasion ne vous rapportera rien.
+
+827
+01:15:07,655 --> 01:15:10,533
+Nous sommes une démocratie.
+Le peuple l'a décidé.
+
+828
+01:15:10,655 --> 01:15:12,452
+Emmenez-le !
+
+829
+01:15:15,775 --> 01:15:20,690
+Mes troupes vont explorer les marais
+à la recherche des villages amphibies.
+
+830
+01:15:20,815 --> 01:15:23,329
+Ils ne se cacheront pas longtemps.
+
+831
+01:15:33,935 --> 01:15:36,529
+{y:i}Nos pertes sont catastrophiques.
+
+832
+01:15:36,655 --> 01:15:39,169
+{y:i}Il faut accepter leurs conditions.
+
+833
+01:15:39,295 --> 01:15:41,411
+{y:i}Vous devez me contacter !
+
+834
+01:15:54,975 --> 01:15:56,806
+Ça va ?
+
+835
+01:15:57,815 --> 01:15:59,646
+J'ai très froid.
+
+836
+01:16:07,295 --> 01:16:09,934
+Tu viens d'une planète chaude.
+
+837
+01:16:10,055 --> 01:16:12,330
+Un peu trop, à mon goût.
+
+838
+01:16:12,455 --> 01:16:14,605
+L'espace est froid.
+
+839
+01:16:14,735 --> 01:16:16,771
+Tu as l'air triste.
+
+840
+01:16:17,895 --> 01:16:20,045
+La reine est inquiète.
+
+841
+01:16:20,175 --> 01:16:22,484
+Son peuple souffre et meurt.
+
+842
+01:16:22,615 --> 01:16:25,971
+Elle doit convaincre le sénat
+d'intervenir sinon...
+
+843
+01:16:27,375 --> 01:16:29,570
+qui sait ce qu'il adviendra !
+
+844
+01:16:30,975 --> 01:16:32,931
+J'ai fait ça pour toi...
+
+845
+01:16:34,375 --> 01:16:36,172
+pour que tu te souviennes de moi.
+
+846
+01:16:36,855 --> 01:16:39,415
+Je l'ai sculpté
+dans un éclat de japor.
+
+847
+01:16:39,535 --> 01:16:42,254
+Il te portera chance.
+
+848
+01:16:42,375 --> 01:16:44,172
+C'est beau, mais...
+
+849
+01:16:44,295 --> 01:16:46,570
+même sans ça je ne t'oublierai pas.
+
+850
+01:16:50,095 --> 01:16:53,326
+Bien des choses changeront
+quand nous serons dans la capitale.
+
+851
+01:16:53,455 --> 01:16:55,889
+Mais pas mon affection pour toi.
+
+852
+01:16:58,495 --> 01:17:01,487
+Je t'aime beaucoup aussi, mais...
+
+853
+01:17:01,615 --> 01:17:03,685
+Ta mère te manque.
+
+854
+01:17:21,415 --> 01:17:25,408
+Coruscant. La planète entière
+est une immense ville.
+
+855
+01:17:25,535 --> 01:17:27,207
+La navette du chancelier.
+
+856
+01:17:27,335 --> 01:17:30,452
+Regarde là-bas.
+Le sénateur Palpatine nous attend.
+
+857
+01:17:58,735 --> 01:18:01,647
+Vous revoir en vie est un don du ciel.
+
+858
+01:18:01,775 --> 01:18:04,608
+Avec la rupture des communications
+nous étions très inquiets.
+
+859
+01:18:04,735 --> 01:18:07,090
+J'ai hâte d'entendre votre récit.
+
+860
+01:18:07,215 --> 01:18:09,729
+Permettez que je vous présente
+le chancelier suprême Valorum.
+
+861
+01:18:09,855 --> 01:18:11,732
+Bienvenue.
+
+862
+01:18:11,855 --> 01:18:13,811
+C'est un honneur
+de vous rencontrer enfin, Majesté.
+
+863
+01:18:13,935 --> 01:18:15,334
+Merci, chancelier suprême.
+
+864
+01:18:15,455 --> 01:18:18,811
+Tout le monde ici est préoccupé
+par la situation.
+
+865
+01:18:18,935 --> 01:18:22,211
+J'ai convoqué le sénat
+pour vous entendre.
+
+866
+01:18:23,335 --> 01:18:26,293
+Merci de votre sollicitude, chancelier.
+
+867
+01:18:26,415 --> 01:18:30,727
+Il y a un problème de procédure
+mais nous le surmonterons.
+
+868
+01:18:31,535 --> 01:18:33,605
+Je dois parler au conseil des Jedi
+immédiatement.
+
+869
+01:18:33,735 --> 01:18:36,408
+La situation s'est
+beaucoup compliquée.
+
+870
+01:18:41,935 --> 01:18:43,766
+Ani, viens.
+
+871
+01:18:54,535 --> 01:18:57,129
+Reine drôlement gentille,
+missa pense.
+
+872
+01:18:58,415 --> 01:19:00,292
+Pas mal plutôt bien.
+
+873
+01:19:27,055 --> 01:19:30,047
+La civilité a disparu.
+Tout est politique.
+
+874
+01:19:31,295 --> 01:19:35,004
+La République
+n'est plus ce qu'elle était.
+
+875
+01:19:35,135 --> 01:19:40,163
+Le sénat est plein de délégués
+cupides et querelleurs.
+
+876
+01:19:40,935 --> 01:19:44,211
+On ne s'intéresse plus au bien commun.
+
+877
+01:19:45,055 --> 01:19:46,613
+Franchement,
+il y a peu de chances...
+
+878
+01:19:46,735 --> 01:19:49,329
+que le sénat réagisse à l'invasion.
+
+879
+01:19:49,455 --> 01:19:52,049
+Le chancelier semble avoir bon espoir.
+
+880
+01:19:52,175 --> 01:19:53,972
+Si je puis me permettre...
+
+881
+01:19:54,095 --> 01:19:56,211
+le chancelier a peu de pouvoir.
+
+882
+01:19:56,335 --> 01:20:00,044
+Il est embourbé dans des accusations
+de corruption sans fondements.
+
+883
+01:20:00,175 --> 01:20:03,770
+- Les bureaucrates font la loi.
+- Que peut-on faire ?
+
+884
+01:20:04,495 --> 01:20:09,489
+Le mieux serait d'appeler à l'élection
+d'un chancelier plus fort...
+
+885
+01:20:09,615 --> 01:20:11,685
+pouvant tenir tête aux bureaucrates...
+
+886
+01:20:11,815 --> 01:20:13,567
+et nous rendre justice.
+
+887
+01:20:14,415 --> 01:20:19,694
+Vous pourriez demander un vote
+de censure contre Valorum.
+
+888
+01:20:19,815 --> 01:20:22,204
+Il nous a toujours soutenus.
+
+889
+01:20:22,335 --> 01:20:27,329
+La seule autre solution
+serait d'en saisir la justice.
+
+890
+01:20:27,455 --> 01:20:30,652
+Les cours sont encore plus lentes
+que le sénat.
+
+891
+01:20:31,535 --> 01:20:33,526
+Les nôtres meurent.
+
+892
+01:20:34,295 --> 01:20:37,173
+Il faut agir rapidement
+pour arrêter la Fédération.
+
+893
+01:20:37,295 --> 01:20:39,684
+Pour être réaliste, je pense...
+
+894
+01:20:39,815 --> 01:20:44,730
+qu'il faut accepter le contrôle
+de la Fédération pour l'instant.
+
+895
+01:20:46,415 --> 01:20:48,406
+Ça, je ne peux pas.
+
+896
+01:20:55,455 --> 01:20:57,923
+Il maîtrisait les arts jedi.
+
+897
+01:20:58,055 --> 01:21:01,809
+J'en conclus
+qu'il s'agissait d'un Sith.
+
+898
+01:21:01,935 --> 01:21:03,254
+Impossible.
+
+899
+01:21:03,375 --> 01:21:05,935
+Les Siths ont disparu
+depuis mille ans.
+
+900
+01:21:06,055 --> 01:21:10,048
+Je ne crois pas
+qu'ils soient revenus à notre insu.
+
+901
+01:21:11,015 --> 01:21:13,131
+Difficile il est de voir
+le côté obscur.
+
+902
+01:21:13,255 --> 01:21:16,008
+Nous éclaircirons ce mystère.
+
+903
+01:21:16,135 --> 01:21:19,207
+Nous démasquerons votre agresseur.
+
+904
+01:21:19,335 --> 01:21:20,927
+Que la Force soit avec vous !
+
+905
+01:21:24,815 --> 01:21:26,214
+Maître Qui-Gon...
+
+906
+01:21:27,055 --> 01:21:28,773
+autre chose à dire as-tu ?
+
+907
+01:21:30,815 --> 01:21:32,612
+Avec votre permission, maître...
+
+908
+01:21:34,095 --> 01:21:36,973
+j'ai constaté
+une "vergence" dans la Force.
+
+909
+01:21:38,055 --> 01:21:39,966
+Une vergence, dis-tu ?
+
+910
+01:21:40,095 --> 01:21:42,131
+Autour de quelqu'un ?
+
+911
+01:21:42,255 --> 01:21:43,449
+Un petit garçon.
+
+912
+01:21:43,575 --> 01:21:47,807
+Ses cellules ont le plus haut taux
+de midi-chloriens que j'aie jamais vu.
+
+913
+01:21:47,935 --> 01:21:50,688
+Il a pu être conçu
+par les midi-chloriens.
+
+914
+01:21:52,335 --> 01:21:56,044
+Vous pensez à la prophétie
+de celui qui équilibrera la Force ?
+
+915
+01:21:56,815 --> 01:21:58,851
+Vous croyez que c'est ce garçon ?
+
+916
+01:21:58,975 --> 01:22:01,443
+- Je ne peux présumer de...
+- Mais tu le penses.
+
+917
+01:22:02,175 --> 01:22:04,052
+Évidente est ta conviction.
+
+918
+01:22:04,175 --> 01:22:06,131
+Je demande que vous le testiez.
+
+919
+01:22:08,175 --> 01:22:11,247
+Initié tu demandes qu'il soit ?
+
+920
+01:22:11,375 --> 01:22:13,650
+La Force a voulu qu'il soit reconnu.
+
+921
+01:22:13,775 --> 01:22:15,925
+Je n'en doute pas.
+
+922
+01:22:22,335 --> 01:22:24,291
+Amène-le-nous.
+
+923
+01:22:34,935 --> 01:22:36,732
+L'enfant demande à voir Padmé.
+
+924
+01:22:36,855 --> 01:22:38,368
+{y:i}Qu'il entre !
+
+925
+01:22:41,455 --> 01:22:45,164
+Je regrette, Padmé n'est pas là.
+
+926
+01:22:45,295 --> 01:22:46,887
+Qui est là ?
+
+927
+01:22:47,655 --> 01:22:50,533
+Anakin Skywalker.
+Il venait voir Padmé.
+
+928
+01:22:50,655 --> 01:22:52,373
+Je l'ai envoyée faire une course.
+
+929
+01:22:52,495 --> 01:22:54,292
+Je vais au temple des Jedi...
+
+930
+01:22:54,415 --> 01:22:56,565
+commencer ma formation, j'espère.
+
+931
+01:22:57,375 --> 01:23:01,050
+Je ne la reverrai peut-être pas.
+Je venais lui dire adieu.
+
+932
+01:23:02,095 --> 01:23:05,565
+Nous le lui dirons.
+Son coeur t'accompagne.
+
+933
+01:23:06,655 --> 01:23:07,644
+Merci, Votre Altesse.
+
+934
+01:23:21,095 --> 01:23:25,008
+La parole est au sénateur
+du système souverain de Naboo.
+
+935
+01:23:31,535 --> 01:23:34,766
+Chancelier suprême,
+délégués du sénat...
+
+936
+01:23:35,855 --> 01:23:38,130
+une tragédie est en cours.
+
+937
+01:23:38,255 --> 01:23:41,611
+Elle a débuté ici par la taxation
+des voies commerciales...
+
+938
+01:23:41,735 --> 01:23:44,613
+et submerge notre planète...
+
+939
+01:23:44,735 --> 01:23:46,646
+opprimée
+par la Fédération du Commerce.
+
+940
+01:23:47,495 --> 01:23:48,848
+C'est scandaleux !
+
+941
+01:23:48,975 --> 01:23:51,409
+Je conteste ces allégations !
+
+942
+01:23:51,535 --> 01:23:55,414
+Le délégué de la Fédération
+n'a pas encore la parole.
+
+943
+01:23:55,535 --> 01:23:59,244
+Pour exposer nos griefs,
+j'appelle la reine Amidala...
+
+944
+01:23:59,375 --> 01:24:01,286
+nouvellement élue...
+
+945
+01:24:01,415 --> 01:24:03,212
+qui parlera en notre nom.
+
+946
+01:24:08,975 --> 01:24:11,614
+Honorables représentants
+de la République...
+
+947
+01:24:12,335 --> 01:24:14,690
+de graves faits m'amènent devant vous.
+
+948
+01:24:14,815 --> 01:24:17,568
+Naboo a été envahie
+par les armées droïdes de la...
+
+949
+01:24:17,695 --> 01:24:21,085
+Je proteste !
+II n'y a pas de preuves.
+
+950
+01:24:21,215 --> 01:24:23,012
+C'est incroyable !
+
+951
+01:24:23,135 --> 01:24:26,923
+Nous demandons l'envoi sur Naboo
+d'une commission d'enquête.
+
+952
+01:24:27,055 --> 01:24:31,287
+Le congrès de Malastare
+soutient le délégué de la Fédération.
+
+953
+01:24:31,415 --> 01:24:33,371
+Il faut créer une commission.
+
+954
+01:24:33,495 --> 01:24:35,884
+- La proposition...
+- Excusez-moi, chancelier.
+
+955
+01:24:36,015 --> 01:24:37,573
+Entrée des bureaucrates...
+
+956
+01:24:37,695 --> 01:24:40,209
+les vrais maîtres de la République...
+
+957
+01:24:40,335 --> 01:24:44,328
+à la solde de la Fédération.
+
+958
+01:24:44,455 --> 01:24:48,494
+Et c'est là que le chancelier Valorum
+perd toute autorité.
+
+959
+01:24:50,015 --> 01:24:52,210
+La proposition est retenue.
+
+960
+01:24:52,335 --> 01:24:57,648
+Différez-vous votre requête pour
+permettre à une commission d'enquêter ?
+
+961
+01:24:57,775 --> 01:25:03,054
+Non ! Je suis venue pour que cesse
+cette atteinte à notre souveraineté.
+
+962
+01:25:03,175 --> 01:25:06,053
+Je n'ai pas été élue pour voir
+mourir mon peuple...
+
+963
+01:25:06,175 --> 01:25:08,735
+pendant que vous discutez
+en commission !
+
+964
+01:25:11,575 --> 01:25:15,887
+Si cette assemblée ne peut agir,
+il faut changer ses dirigeants.
+
+965
+01:25:19,175 --> 01:25:23,327
+J'appelle à un vote de censure
+à l'encontre du chancelier Valorum.
+
+966
+01:25:30,095 --> 01:25:32,165
+Aux voix !
+
+967
+01:25:35,815 --> 01:25:37,646
+Silence !
+
+968
+01:25:37,775 --> 01:25:40,528
+Ils vont élire un nouveau chancelier.
+
+969
+01:25:40,655 --> 01:25:42,452
+Un chancelier fort...
+
+970
+01:25:42,575 --> 01:25:45,373
+qui mettra fin à notre tragédie.
+
+971
+01:25:47,015 --> 01:25:51,088
+Le conseil ne l'admettra pas, maître.
+Il est trop vieux.
+
+972
+01:25:51,215 --> 01:25:54,207
+Anakin deviendra Jedi.
+Je te le promets.
+
+973
+01:25:54,335 --> 01:25:56,929
+Ne défiez pas le conseil
+encore une fois !
+
+974
+01:25:57,055 --> 01:25:59,649
+Je ferai ce que je dois faire.
+
+975
+01:26:01,495 --> 01:26:05,090
+Si vous vous conformiez au code,
+vous seriez au conseil.
+
+976
+01:26:05,215 --> 01:26:07,171
+Ils ne vous suivront pas, cette fois.
+
+977
+01:26:08,615 --> 01:26:11,083
+Il te reste beaucoup à apprendre.
+
+978
+01:26:14,255 --> 01:26:15,574
+Un vaisseau.
+
+979
+01:26:17,135 --> 01:26:19,012
+Une tasse.
+
+980
+01:26:19,135 --> 01:26:20,853
+Un vaisseau.
+
+981
+01:26:21,935 --> 01:26:23,334
+Un speeder.
+
+982
+01:26:30,575 --> 01:26:32,406
+Qu'éprouves-tu ?
+
+983
+01:26:32,975 --> 01:26:34,567
+J'ai froid.
+
+984
+01:26:36,175 --> 01:26:38,245
+- Peur as-tu ?
+- Non.
+
+985
+01:26:39,375 --> 01:26:41,889
+Lire en toi nous pouvons.
+
+986
+01:26:42,015 --> 01:26:43,812
+Sois attentif à ce que tu ressens.
+
+987
+01:26:43,935 --> 01:26:46,574
+Tes pensées vont vers ta mère.
+
+988
+01:26:48,175 --> 01:26:49,528
+Elle me manque.
+
+989
+01:26:50,735 --> 01:26:53,090
+Peur de la perdre tu as ?
+
+990
+01:26:53,215 --> 01:26:55,251
+Qu'est-ce que ça change ?
+
+991
+01:26:55,375 --> 01:26:57,605
+Tout !
+
+992
+01:26:57,735 --> 01:27:00,647
+La peur mène au côté obscur.
+
+993
+01:27:00,775 --> 01:27:03,528
+La peur engendre la colère.
+La colère engendre la haine.
+
+994
+01:27:03,655 --> 01:27:06,852
+La haine engendre la souffrance.
+
+995
+01:27:13,135 --> 01:27:15,933
+Je sens beaucoup de peur en toi.
+
+996
+01:27:28,335 --> 01:27:31,566
+Voussa pensez
+les vôtres vont mourir ?
+
+997
+01:27:31,695 --> 01:27:32,969
+Je ne sais pas.
+
+998
+01:27:34,255 --> 01:27:36,052
+Et Gungans y passer aussi ?
+
+999
+01:27:38,415 --> 01:27:40,371
+J'espère que non.
+
+1000
+01:27:41,135 --> 01:27:43,251
+Gungans pas mourir sans combattre.
+
+1001
+01:27:43,375 --> 01:27:45,172
+Noussa guerriers.
+
+1002
+01:27:45,295 --> 01:27:48,412
+Noussa grande armée.
+
+1003
+01:27:48,535 --> 01:27:51,607
+Pour ça voussa 'précie pas noussa.
+
+1004
+01:27:51,735 --> 01:27:53,009
+Votre Altesse...
+
+1005
+01:27:57,735 --> 01:28:00,693
+le sénateur Palpatine a été pressenti
+pour succéder à Valorum...
+
+1006
+01:28:00,815 --> 01:28:02,134
+comme chancelier suprême.
+
+1007
+01:28:02,255 --> 01:28:05,964
+Une surprise.
+Mais une heureuse surprise.
+
+1008
+01:28:06,095 --> 01:28:10,293
+Majesté, si je suis élu
+j'éradiquerai la corruption.
+
+1009
+01:28:10,415 --> 01:28:12,007
+Qui sont les autres candidats ?
+
+1010
+01:28:12,135 --> 01:28:16,253
+Bail Antilles d'Alderaan
+et Ainlee Teem de Malastare.
+
+1011
+01:28:16,375 --> 01:28:21,085
+Notre situation entraînera
+un vote de sympathie en notre faveur.
+
+1012
+01:28:22,735 --> 01:28:24,646
+Je serai chancelier.
+
+1013
+01:28:24,775 --> 01:28:27,243
+D'ici que vous soumettiez
+les bureaucrates...
+
+1014
+01:28:27,375 --> 01:28:30,447
+notre peuple aura disparu.
+
+1015
+01:28:30,575 --> 01:28:32,372
+Je comprends votre inquiétude.
+
+1016
+01:28:32,495 --> 01:28:35,885
+Hélas, la Fédération
+s'est emparée de notre planète.
+
+1017
+01:28:37,615 --> 01:28:41,244
+Sénateur, vous êtes sur votre terrain.
+
+1018
+01:28:41,615 --> 01:28:43,446
+Je dois rejoindre le mien.
+
+1019
+01:28:46,575 --> 01:28:48,770
+J'ai décidé de regagner Naboo.
+
+1020
+01:28:49,855 --> 01:28:52,688
+Mais ils vont vous contraindre
+à signer le traité !
+
+1021
+01:28:52,815 --> 01:28:55,090
+Je ne signerai rien.
+
+1022
+01:28:55,215 --> 01:28:57,888
+Mon destin sera celui de notre peuple.
+
+1023
+01:28:58,015 --> 01:28:59,528
+Capitaine !
+
+1024
+01:28:59,655 --> 01:29:01,850
+Apprêtez mon vaisseau.
+
+1025
+01:29:01,975 --> 01:29:03,772
+Je vous supplie
+de rester ici en sécurité !
+
+1026
+01:29:05,215 --> 01:29:08,252
+II est clair que la République
+ne fonctionne plus.
+
+1027
+01:29:08,975 --> 01:29:12,934
+Je prie pour que vous rameniez
+le sénat à la raison.
+
+1028
+01:29:22,255 --> 01:29:24,723
+La Force est puissante chez lui.
+
+1029
+01:29:24,855 --> 01:29:26,686
+Il sera donc formé ?
+
+1030
+01:29:28,735 --> 01:29:31,010
+Non.
+Il ne sera pas formé.
+
+1031
+01:29:34,695 --> 01:29:36,651
+Il est trop vieux.
+
+1032
+01:29:36,775 --> 01:29:40,404
+Il est l'Élu.
+Vous devez le reconnaître.
+
+1033
+01:29:41,535 --> 01:29:44,925
+Chargé de nuages son avenir est.
+
+1034
+01:29:47,055 --> 01:29:48,807
+Je le formerai.
+
+1035
+01:29:52,975 --> 01:29:55,694
+Je prends Anakin
+comme disciple padawan.
+
+1036
+01:29:55,815 --> 01:29:58,613
+Un apprenti tu as déjà.
+
+1037
+01:29:58,735 --> 01:30:01,010
+Impossible un second de prendre.
+
+1038
+01:30:01,135 --> 01:30:02,727
+Le code l'interdit.
+
+1039
+01:30:02,855 --> 01:30:06,086
+- Obi-Wan est prêt.
+- Je peux affronter les épreuves.
+
+1040
+01:30:06,215 --> 01:30:09,685
+Qui est prêt
+il nous appartient de décider.
+
+1041
+01:30:10,655 --> 01:30:14,933
+Il est têtu et a beaucoup à apprendre
+de la Force mais il est capable.
+
+1042
+01:30:15,055 --> 01:30:16,966
+Je n'ai plus grand-chose à lui apporter.
+
+1043
+01:30:19,455 --> 01:30:23,084
+Du jeune Skywalker
+plus tard nous discuterons.
+
+1044
+01:30:23,215 --> 01:30:25,683
+Le moment est mal choisi.
+
+1045
+01:30:26,455 --> 01:30:28,332
+Le sénat doit élire un chancelier...
+
+1046
+01:30:28,455 --> 01:30:31,015
+et la reine regagne Naboo.
+
+1047
+01:30:31,135 --> 01:30:34,207
+Cela pourrait aggraver
+la confrontation.
+
+1048
+01:30:34,335 --> 01:30:36,530
+Et attirer l'ennemi de la reine.
+
+1049
+01:30:36,655 --> 01:30:40,853
+Accompagne-la
+et démasque ce guerrier de l'ombre.
+
+1050
+01:30:42,095 --> 01:30:46,168
+C'est la clé qui nous manque
+pour élucider le mystère des Siths.
+
+1051
+01:30:46,855 --> 01:30:48,971
+Que la Force soit avec vous !
+
+1052
+01:31:01,615 --> 01:31:04,368
+Ce n'est pas de l'irrespect, maître,
+c'est la vérité.
+
+1053
+01:31:04,495 --> 01:31:06,292
+De ton point de vue.
+
+1054
+01:31:06,415 --> 01:31:09,646
+Le garçon est dangereux.
+Tous le sentent sauf vous.
+
+1055
+01:31:09,775 --> 01:31:12,528
+Son destin est incertain.
+Il n'est pas dangereux.
+
+1056
+01:31:12,655 --> 01:31:14,930
+Le conseil décidera de son avenir.
+
+1057
+01:31:15,055 --> 01:31:17,853
+Ça devrait te satisfaire.
+Monte.
+
+1058
+01:31:23,295 --> 01:31:26,890
+Qui-Gon, je ne veux pas
+poser de problèmes.
+
+1059
+01:31:27,015 --> 01:31:29,131
+Tu n'en poses pas.
+
+1060
+01:31:29,255 --> 01:31:31,086
+Je n'ai pas le droit de te former.
+
+1061
+01:31:31,215 --> 01:31:33,171
+Alors, observe-moi, sois attentif.
+
+1062
+01:31:33,295 --> 01:31:35,286
+Souviens-toi !
+
+1063
+01:31:36,175 --> 01:31:38,689
+Ton attention détermine ta réalité.
+
+1064
+01:31:38,815 --> 01:31:42,251
+Reste près de moi,
+tu seras en sécurité.
+
+1065
+01:31:42,375 --> 01:31:43,694
+Maître...
+
+1066
+01:31:43,815 --> 01:31:47,251
+j'ai entendu Yoda parler
+de "midi-chloriens"...
+
+1067
+01:31:47,375 --> 01:31:50,731
+C'est quoi, des midi-chloriens ?
+
+1068
+01:31:51,975 --> 01:31:56,526
+De minuscules organismes
+présents dans toute cellule vivante.
+
+1069
+01:31:57,935 --> 01:32:00,688
+- Ils vivent à l'intérieur de moi ?
+- Dans tes cellules.
+
+1070
+01:32:00,815 --> 01:32:04,125
+- Nous sommes en symbiose avec eux.
+- "Symbiose" ?
+
+1071
+01:32:04,255 --> 01:32:07,964
+L'association réciproquement profitable
+de deux organismes vivants.
+
+1072
+01:32:08,095 --> 01:32:13,647
+Sans midi-chloriens, pas de vie
+et on ne saurait rien de la Force.
+
+1073
+01:32:13,775 --> 01:32:15,572
+Ils nous parlent.
+
+1074
+01:32:15,695 --> 01:32:18,255
+Ils nous disent ce que veut la Force.
+
+1075
+01:32:18,375 --> 01:32:22,288
+Quand tu sauras faire le silence
+en toi, tu les entendras.
+
+1076
+01:32:22,415 --> 01:32:24,212
+Je ne comprends pas.
+
+1077
+01:32:24,335 --> 01:32:27,691
+Avec le temps et la pratique,
+tu comprendras.
+
+1078
+01:32:31,575 --> 01:32:35,170
+Majesté, nous continuerons
+de vous servir et de vous protéger.
+
+1079
+01:32:35,855 --> 01:32:37,208
+Votre aide est la bienvenue.
+
+1080
+01:32:37,335 --> 01:32:40,884
+Le sénateur Palpatine craint
+que la Fédération n'attente à ma vie.
+
+1081
+01:32:41,015 --> 01:32:43,893
+Je ne le permettrai pas.
+
+1082
+01:32:44,015 --> 01:32:46,768
+Noussa rentre au pays !
+
+1083
+01:32:46,895 --> 01:32:48,692
+Viens, R2.
+
+1084
+01:32:58,535 --> 01:33:00,810
+{y:i}La planète est soumise ?
+
+1085
+01:33:00,935 --> 01:33:04,644
+Nous avons réduit
+les dernières poches de vie primitive.
+
+1086
+01:33:04,775 --> 01:33:07,733
+Nous sommes maîtres de la planète.
+
+1087
+01:33:07,855 --> 01:33:08,844
+{y:i}Bien.
+
+1088
+01:33:09,055 --> 01:33:13,810
+{y:i}Je veillerai à ce que rien ne change
+{y:i}au sénat.
+
+1089
+01:33:13,935 --> 01:33:17,291
+{y:i}Je vous envoie mon apprenti,
+{y:i}Darth Maul.
+
+1090
+01:33:19,335 --> 01:33:21,132
+Un Sith ? Ici ?
+
+1091
+01:33:26,335 --> 01:33:28,690
+Ça, ce sont
+les stabilisateurs horizontaux.
+
+1092
+01:33:28,815 --> 01:33:31,090
+Et ceux-là contrôlent l'assiette.
+
+1093
+01:33:32,615 --> 01:33:34,412
+Tu apprends vite.
+
+1094
+01:33:34,535 --> 01:33:38,847
+Ils vont vous arrêter
+et vous obliger à signer le traité.
+
+1095
+01:33:38,975 --> 01:33:39,964
+Je suis d'accord.
+
+1096
+01:33:40,095 --> 01:33:42,734
+Je ne sais pas
+ce que vous comptez faire.
+
+1097
+01:33:42,855 --> 01:33:45,210
+Reprendre ce qui nous appartient.
+
+1098
+01:33:45,975 --> 01:33:48,045
+Nous sommes trop peu nombreux.
+
+1099
+01:33:48,175 --> 01:33:49,972
+Nous n'avons pas d'armée.
+
+1100
+01:33:50,095 --> 01:33:51,414
+Et je ne peux que vous protéger...
+
+1101
+01:33:51,535 --> 01:33:53,491
+pas mener une guerre pour vous.
+
+1102
+01:33:54,495 --> 01:33:55,484
+Jar Jar Binks !
+
+1103
+01:33:56,375 --> 01:33:58,445
+Missa, Votre Altesse ?
+
+1104
+01:33:58,575 --> 01:34:01,373
+J'ai besoin de ton aide.
+
+1105
+01:34:06,415 --> 01:34:08,531
+Un vaisseau de guerre.
+
+1106
+01:34:08,655 --> 01:34:10,611
+Un vaisseau-amiral droïde
+
+1107
+01:34:10,735 --> 01:34:12,851
+Ils ont dû nous repérer.
+
+1108
+01:34:12,975 --> 01:34:14,613
+On aura peu de temps.
+
+1109
+01:34:25,855 --> 01:34:28,415
+Jar Jar est parti pour la cité gungan.
+
+1110
+01:34:29,895 --> 01:34:33,729
+- Vous croyez à l'idée de la reine ?
+- Il sera dur de convaincre les Gungans.
+
+1111
+01:34:35,735 --> 01:34:37,965
+On ne peut user de nos pouvoirs
+pour l'aider.
+
+1112
+01:34:39,695 --> 01:34:42,653
+Pardonnez-moi.
+
+1113
+01:34:42,775 --> 01:34:46,324
+Je n'avais pas à vous contredire
+au sujet du garçon.
+
+1114
+01:34:48,175 --> 01:34:51,326
+Je vous remercie
+de m'estimer prêt pour les épreuves.
+
+1115
+01:34:52,455 --> 01:34:54,252
+Tu as été bon apprenti.
+
+1116
+01:34:55,655 --> 01:34:58,215
+Et tu es plus sage que moi.
+
+1117
+01:34:58,895 --> 01:35:02,092
+Tu seras un grand chevalier jedi.
+
+1118
+01:35:14,575 --> 01:35:16,850
+Plussa personne là-bas.
+
+1119
+01:35:16,975 --> 01:35:19,045
+Cité gungan déserte !
+
+1120
+01:35:19,175 --> 01:35:21,609
+Combats, missa pense.
+
+1121
+01:35:21,735 --> 01:35:24,693
+Ils ont été emmenés en captivité ?
+
+1122
+01:35:24,815 --> 01:35:27,045
+Liquidés, probablement.
+
+1123
+01:35:27,175 --> 01:35:30,087
+- Missa crois pas.
+- Tu sais où ils sont ?
+
+1124
+01:35:30,215 --> 01:35:33,491
+Quand danger,
+Gungans réfugient sanctuaire.
+
+1125
+01:35:33,615 --> 01:35:36,368
+Missa montre vous.
+Venez !
+
+1126
+01:35:53,975 --> 01:35:57,411
+Votre Honneur,
+Amidala, reine des Naboo.
+
+1127
+01:36:03,815 --> 01:36:07,012
+Hello, Papa Big Boss Nass,
+Votre Honneur.
+
+1128
+01:36:07,775 --> 01:36:10,084
+Jar Jar Binks...
+
+1129
+01:36:10,575 --> 01:36:13,692
+quissa sont toute cette clique ?
+
+1130
+01:36:14,255 --> 01:36:16,450
+Je suis Amidala, reine des Naboo.
+
+1131
+01:36:17,255 --> 01:36:19,564
+Je viens à vous en paix.
+
+1132
+01:36:19,695 --> 01:36:22,414
+Naboostocrates !
+
+1133
+01:36:22,535 --> 01:36:25,572
+Voussa mandé les mékanix.
+
+1134
+01:36:25,695 --> 01:36:29,244
+Voussa caïds !
+
+1135
+01:36:30,095 --> 01:36:32,814
+Nous vous cherchions
+pour vous proposer une alliance.
+
+1136
+01:36:36,335 --> 01:36:39,168
+Quissa celle-là ?
+
+1137
+01:36:39,295 --> 01:36:41,411
+Je suis la vraie Amidala.
+
+1138
+01:36:43,015 --> 01:36:44,528
+Celle-ci est ma doublure...
+
+1139
+01:36:44,655 --> 01:36:48,125
+ma protection,
+ma fidèle garde du corps.
+
+1140
+01:36:48,255 --> 01:36:52,373
+Pardon de ce subterfuge
+mais je devais me protéger.
+
+1141
+01:36:52,495 --> 01:36:54,929
+Malgré nos désaccords
+nos deux communautés...
+
+1142
+01:36:55,055 --> 01:36:57,489
+ont toujours vécu en paix.
+
+1143
+01:36:59,215 --> 01:37:02,252
+La Fédération a détruit
+ce que nous avions réussi à bâtir.
+
+1144
+01:37:02,375 --> 01:37:05,492
+Si nous ne réagissons pas,
+tout sera perdu à jamais.
+
+1145
+01:37:05,615 --> 01:37:07,731
+Je vous demande de nous aider.
+
+1146
+01:37:07,855 --> 01:37:10,449
+Je vous en supplie.
+
+1147
+01:37:10,575 --> 01:37:12,850
+Nous sommes vos humbles serviteurs.
+
+1148
+01:37:15,975 --> 01:37:18,648
+Notre destin est entre vos mains.
+
+1149
+01:37:35,175 --> 01:37:39,248
+Voussa pas croire
+voussa plus grands que Gungans ?
+
+1150
+01:37:41,615 --> 01:37:45,369
+Missa 'précie ça !
+
+1151
+01:37:46,375 --> 01:37:49,765
+Peut-être... noussa...
+
+1152
+01:37:49,895 --> 01:37:51,692
+amis.
+
+1153
+01:38:00,055 --> 01:38:01,773
+Nous avons envoyé des patrouilles.
+
+1154
+01:38:01,895 --> 01:38:05,205
+Nous avons déjà repéré leur vaisseau
+dans le marais.
+
+1155
+01:38:05,335 --> 01:38:07,405
+Ce ne sera plus long.
+
+1156
+01:38:07,535 --> 01:38:10,527
+{y:i}Ce retour est surprenant de sa part.
+
+1157
+01:38:10,655 --> 01:38:12,566
+{y:i}C'est trop agressif.
+
+1158
+01:38:12,695 --> 01:38:15,004
+{y:i}Seigneur Maul, soyez vigilant.
+
+1159
+01:38:15,135 --> 01:38:17,569
+{y:i}Attendez qu'ils bougent.
+
+1160
+01:38:17,695 --> 01:38:19,492
+Oui, maître.
+
+1161
+01:38:22,895 --> 01:38:24,487
+Eussa reviennent !
+
+1162
+01:38:24,615 --> 01:38:25,889
+D'accord !
+
+1163
+01:38:29,335 --> 01:38:30,973
+Les voilà !
+
+1164
+01:38:31,095 --> 01:38:32,414
+Ils ont réussi.
+
+1165
+01:38:36,815 --> 01:38:39,375
+Tissa' fais très fort.
+
+1166
+01:38:39,495 --> 01:38:42,453
+Jar Jar concilié noussa et Naboo.
+
+1167
+01:38:44,495 --> 01:38:49,853
+Noussa bombarde toi... Caïd Général.
+
+1168
+01:38:49,975 --> 01:38:51,328
+Général ?
+
+1169
+01:38:55,815 --> 01:38:58,283
+- Votre Altesse.
+- Quelle est la situation ?
+
+1170
+01:38:58,415 --> 01:39:00,212
+Les gens sont dans des camps.
+
+1171
+01:39:00,335 --> 01:39:03,407
+Des policiers et des gardes royaux
+ont organisé une résistance.
+
+1172
+01:39:03,535 --> 01:39:05,969
+J'en ai ramené autant que j'ai pu.
+
+1173
+01:39:06,095 --> 01:39:08,848
+L'armée droïde est plus nombreuse
+qu'on ne pensait.
+
+1174
+01:39:08,975 --> 01:39:10,567
+Et plus puissante.
+
+1175
+01:39:11,815 --> 01:39:14,773
+Nous ne pourrons pas gagner la bataille.
+
+1176
+01:39:14,895 --> 01:39:19,889
+La bataille ne sera qu'une diversion
+pour éloigner l'armée droïde
+
+1177
+01:39:20,015 --> 01:39:21,494
+R2.
+
+1178
+01:39:22,575 --> 01:39:25,885
+On entrera dans la cité par
+les passages secrets de la cascade.
+
+1179
+01:39:26,015 --> 01:39:30,725
+A l'entrée principale,
+Panaka créera une diversion.
+
+1180
+01:39:30,855 --> 01:39:33,653
+Nous pourrons investir le palais
+et capturer le vice-roi.
+
+1181
+01:39:34,375 --> 01:39:37,048
+Sa capture les désorganisera.
+
+1182
+01:39:37,175 --> 01:39:38,767
+Qu'en dites-vous, maître jedi ?
+
+1183
+01:39:38,895 --> 01:39:40,965
+Le vice-roi sera bien gardé.
+
+1184
+01:39:41,095 --> 01:39:43,484
+Il s'agit d'entrer
+dans la salle du trône.
+
+1185
+01:39:43,615 --> 01:39:45,810
+Après, plus de problèmes.
+
+1186
+01:39:45,935 --> 01:39:50,451
+Dans la bataille, de nombreux Gungans
+risquent de mourir.
+
+1187
+01:39:50,575 --> 01:39:53,726
+Noussa prêts à payer notre tribut.
+
+1188
+01:39:53,855 --> 01:39:56,847
+Nous avons un plan
+pour paralyser l'armée droïde
+
+1189
+01:39:56,975 --> 01:40:01,810
+Nos pilotes iront détruire
+leur vaisseau-amiral en orbite.
+
+1190
+01:40:01,935 --> 01:40:04,847
+Le plan est bon, mais très risqué.
+
+1191
+01:40:04,975 --> 01:40:07,967
+Pourront-ils pénétrer
+leur champ de protection ?
+
+1192
+01:40:08,095 --> 01:40:09,653
+II y a un autre danger.
+
+1193
+01:40:09,775 --> 01:40:13,814
+Si le vice-roi s'échappe,
+il reviendra avec une autre armée.
+
+1194
+01:40:13,935 --> 01:40:17,007
+D'où l'importance de sa capture.
+
+1195
+01:40:17,135 --> 01:40:18,966
+Tout le reste en dépend.
+
+1196
+01:40:24,095 --> 01:40:26,609
+{y:i}Elle est plus bête que je ne pensais.
+
+1197
+01:40:26,735 --> 01:40:31,490
+Nous envoyons nos troupes contre
+l'armée qui s'assemble près du marais.
+
+1198
+01:40:31,615 --> 01:40:34,129
+Elle est constituée de primitifs.
+
+1199
+01:40:34,255 --> 01:40:36,689
+{y:i}C'est à notre avantage.
+
+1200
+01:40:36,815 --> 01:40:39,488
+J'ai votre accord pour agir ?
+
+1201
+01:40:40,255 --> 01:40:41,893
+{y:i}Liquidez-les...
+
+1202
+01:40:43,535 --> 01:40:45,332
+{y:i}jusqu'au dernier.
+
+1203
+01:41:19,615 --> 01:41:21,765
+Dressez le bouclier !
+
+1204
+01:41:50,095 --> 01:41:51,244
+Feu !
+
+1205
+01:42:06,695 --> 01:42:09,767
+Quand nous serons entrés,
+trouve une cachette et restes-y.
+
+1206
+01:42:09,895 --> 01:42:11,726
+- D'accord.
+- Restes-y.
+
+1207
+01:42:16,615 --> 01:42:17,604
+Ils sont là ! Feu !
+
+1208
+01:42:36,735 --> 01:42:39,727
+Je croyais que la bataille
+aurait lieu loin d'ici.
+
+1209
+01:42:40,775 --> 01:42:42,208
+C'est trop près !
+
+1210
+01:42:47,935 --> 01:42:50,210
+Abrite-toi !
+
+1211
+01:42:50,335 --> 01:42:52,530
+- Vite !
+- A vos vaisseaux !
+
+1212
+01:43:48,895 --> 01:43:49,964
+Chasseurs en vue !
+
+1213
+01:43:50,095 --> 01:43:52,450
+Bien reçu, Bravo Leader.
+
+1214
+01:44:00,775 --> 01:44:01,810
+Cessez le feu !
+
+1215
+01:44:09,055 --> 01:44:11,364
+Pas bouger !
+
+1216
+01:44:43,135 --> 01:44:46,207
+Activez les droïdes
+
+1217
+01:45:02,055 --> 01:45:03,886
+Garalakass !
+
+1218
+01:45:17,415 --> 01:45:18,450
+Feu !
+
+1219
+01:45:39,815 --> 01:45:41,567
+Le vice-roi est
+dans la salle du trône.
+
+1220
+01:45:41,695 --> 01:45:43,094
+Groupe rouge, groupe bleu...
+
+1221
+01:45:43,215 --> 01:45:44,933
+par ici !
+
+1222
+01:45:45,055 --> 01:45:47,011
+Attendez-moi !
+
+1223
+01:45:47,135 --> 01:45:49,410
+Reste là.
+Tu es en sécurité.
+
+1224
+01:45:49,535 --> 01:45:51,446
+Reste dans ce cockpit.
+
+1225
+01:46:03,135 --> 01:46:06,207
+- On s'en charge.
+- Faisons le tour.
+
+1226
+01:46:25,575 --> 01:46:27,406
+Il faut faire quelque chose, R2.
+
+1227
+01:46:49,295 --> 01:46:52,173
+J'essaie !
+Je trouve pas le bouton.
+
+1228
+01:46:55,495 --> 01:46:58,407
+Erreur.
+Celui-là, peut-être.
+
+1229
+01:46:59,375 --> 01:46:59,735
+Voilà.
+
+1230
+01:46:59,735 --> 01:47:01,726
+Voilà.
+
+1231
+01:47:12,415 --> 01:47:14,565
+Il y a le pilote automatique !
+
+1232
+01:47:23,295 --> 01:47:25,092
+Essaie de le couper.
+
+1233
+01:48:22,695 --> 01:48:24,526
+On perd du temps !
+
+1234
+01:48:30,415 --> 01:48:32,167
+Regarde ! Ils sont là.
+
+1235
+01:48:32,295 --> 01:48:34,570
+Le pilote automatique nous y mène.
+
+1236
+01:48:50,895 --> 01:48:53,409
+Droïdiot !
+
+1237
+01:49:06,255 --> 01:49:08,530
+Leur champ de protection
+est trop puissant !
+
+1238
+01:49:17,455 --> 01:49:19,047
+C'est chaud !
+
+1239
+01:49:21,255 --> 01:49:25,089
+Coupe le pilote automatique,
+on va y rester !
+
+1240
+01:49:26,695 --> 01:49:29,004
+Bravo, R2 !
+
+1241
+01:49:29,135 --> 01:49:30,284
+On vire à gauche.
+
+1242
+01:49:35,295 --> 01:49:36,364
+Rentrer ?
+
+1243
+01:49:36,495 --> 01:49:40,613
+Qui-Gon m'a dit de rester
+dans ce cockpit, j'y reste.
+
+1244
+01:49:47,215 --> 01:49:49,570
+Je vais partir en vrille,
+c'est un bon truc.
+
+1245
+01:49:55,015 --> 01:49:57,449
+Je sais que ça craint.
+Accroche-toi !
+
+1246
+01:50:09,615 --> 01:50:11,253
+Blasters ascensionnels !
+
+1247
+01:52:12,255 --> 01:52:13,813
+Retraite !
+
+1248
+01:52:15,495 --> 01:52:17,326
+Cinglerie !
+
+1249
+01:52:26,815 --> 01:52:28,692
+Grosses boumasses !
+
+1250
+01:52:48,575 --> 01:52:50,884
+Une petite place !
+
+1251
+01:52:57,855 --> 01:52:59,368
+Balance la boumasse !
+
+1252
+01:52:59,495 --> 01:53:01,326
+Missa pas de boumasse !
+
+1253
+01:53:01,455 --> 01:53:03,332
+Trape celle-là !
+
+1254
+01:53:20,255 --> 01:53:22,132
+Saute !
+
+1255
+01:53:31,895 --> 01:53:34,568
+Déposez les armes.
+Ils ont gagné cette manche.
+
+1256
+01:53:46,975 --> 01:53:49,011
+On est touchés !
+
+1257
+01:54:01,695 --> 01:54:04,528
+J'essaie ! J'essaie de m'arrêter !
+
+1258
+01:54:11,455 --> 01:54:12,934
+Tout est en surchauffe.
+
+1259
+01:54:14,335 --> 01:54:16,212
+C'est mauvais.
+
+1260
+01:55:25,695 --> 01:55:29,734
+Tissa rends pas, général.
+Missa nous sortir de là.
+
+1261
+01:55:29,855 --> 01:55:31,174
+Haut les mains !
+
+1262
+01:55:31,295 --> 01:55:34,048
+Missa rends !
+
+1263
+01:55:42,415 --> 01:55:45,407
+Votre petite insurrection a avorté,
+Altesse.
+
+1264
+01:55:45,535 --> 01:55:47,332
+Il est temps de signer le traité...
+
+1265
+01:55:47,455 --> 01:55:49,252
+et de faire taire le sénat.
+
+1266
+01:55:49,375 --> 01:55:51,047
+Vice-roi !
+
+1267
+01:55:51,175 --> 01:55:53,006
+Votre occupation a pris fin
+
+1268
+01:55:54,535 --> 01:55:57,766
+Arrêtez-la !
+Celle-ci est un leurre !
+
+1269
+01:56:14,375 --> 01:56:16,331
+Bloquez les portes !
+
+1270
+01:56:19,655 --> 01:56:22,408
+Maintenant, négocions
+un nouveau traité.
+
+1271
+01:57:23,015 --> 01:57:25,404
+Oui ! Ça repart !
+Bouclier !
+
+1272
+01:57:28,575 --> 01:57:29,564
+Prenez ça !
+
+1273
+01:57:31,495 --> 01:57:32,530
+Et ça !
+
+1274
+01:57:41,055 --> 01:57:43,649
+Plus d'alimentation.
+Problème au réacteur principal.
+
+1275
+01:57:43,775 --> 01:57:45,094
+Impossible.
+
+1276
+01:57:45,215 --> 01:57:47,012
+Notre champ de protection
+est infranchissable.
+
+1277
+01:57:48,255 --> 01:57:49,973
+On décroche !
+
+1278
+01:57:57,695 --> 01:58:00,209
+Que se passe-t-il ?
+II explose de l'intérieur !
+
+1279
+01:58:03,135 --> 01:58:04,648
+On ne l'a pas touché !
+
+1280
+01:58:07,615 --> 01:58:09,571
+Ça, c'est de la course !
+
+1281
+01:58:11,135 --> 01:58:12,773
+Regardez ! Un des nôtres !
+
+1282
+01:58:34,815 --> 01:58:36,931
+Quoi qu'ils font ?
+
+1283
+01:58:37,055 --> 01:58:40,491
+Le vaisseau-amiral a été détruit.
+Regarde !
+
+1284
+01:58:42,135 --> 01:58:44,365
+Eussa zibouillés.
+
+1285
+01:59:30,815 --> 01:59:34,046
+C'est trop tard.
+
+1286
+01:59:39,535 --> 01:59:41,969
+Promets-moi de former le garçon.
+
+1287
+01:59:42,095 --> 01:59:43,574
+Oui, maître.
+
+1288
+01:59:47,495 --> 01:59:49,963
+Il est l'Élu.
+
+1289
+01:59:50,095 --> 01:59:53,167
+Il apportera l'équilibre.
+
+1290
+01:59:54,335 --> 01:59:55,688
+Forme-le.
+
+1291
+02:00:22,095 --> 02:00:23,813
+Maintenant, vice-roi...
+
+1292
+02:00:23,935 --> 02:00:27,211
+vous allez devoir vous expliquer
+devant le sénat.
+
+1293
+02:00:28,895 --> 02:00:32,046
+Dites adieu à vos droits commerciaux.
+
+1294
+02:00:45,215 --> 02:00:48,605
+Nous devons beaucoup
+à votre bravoure, Obi-Wan Kenobi.
+
+1295
+02:00:48,735 --> 02:00:50,532
+Et toi, jeune Skywalker...
+
+1296
+02:00:51,295 --> 02:00:54,446
+nous suivrons ta carrière
+avec grand intérêt.
+
+1297
+02:01:00,735 --> 02:01:03,169
+Félicitations pour votre élection,
+chancelier.
+
+1298
+02:01:03,295 --> 02:01:06,571
+Votre hardiesse a sauvé notre peuple.
+
+1299
+02:01:06,695 --> 02:01:08,970
+C'est vous qu'il faut féliciter.
+
+1300
+02:01:09,095 --> 02:01:12,849
+Ensemble nous apporterons paix
+et prospérité à la République.
+
+1301
+02:01:17,695 --> 02:01:21,927
+Le titre de chevalier Jedi
+le conseil te confère.
+
+1302
+02:01:22,055 --> 02:01:26,571
+Mais que tu prennes ce garçon
+comme disciple padawan...
+
+1303
+02:01:26,695 --> 02:01:28,492
+je n'approuve pas !
+
+1304
+02:01:28,615 --> 02:01:30,606
+Qui-Gon croyait en lui.
+
+1305
+02:01:33,415 --> 02:01:35,975
+L'Élu, ce garçon est peut-être.
+
+1306
+02:01:36,095 --> 02:01:40,532
+Mais un grand danger
+je redoute dans son initiation.
+
+1307
+02:01:40,655 --> 02:01:44,614
+Maître Yoda,
+j'ai donné ma parole à Qui-Gon.
+
+1308
+02:01:44,735 --> 02:01:46,566
+Je formerai Anakin.
+
+1309
+02:01:48,735 --> 02:01:50,965
+Sans l'accord du Conseil, s'il le faut.
+
+1310
+02:01:51,095 --> 02:01:53,450
+L'entêtement de Qui-Gon
+je sens en toi.
+
+1311
+02:01:53,575 --> 02:01:55,406
+Tort cela te portera.
+
+1312
+02:01:57,575 --> 02:02:00,692
+D'accord avec toi le conseil est.
+
+1313
+02:02:01,775 --> 02:02:04,926
+Ton apprenti Skywalker sera.
+
+1314
+02:02:31,615 --> 02:02:33,287
+Que vais-je devenir ?
+
+1315
+02:02:33,415 --> 02:02:36,327
+Le conseil m'autorise à te former.
+
+1316
+02:02:36,455 --> 02:02:39,731
+Tu deviendras un Jedi, je te le promets.
+
+1317
+02:02:48,775 --> 02:02:52,006
+Aucun doute,
+le mystérieux guerrier était un Sith.
+
+1318
+02:02:52,135 --> 02:02:54,490
+Toujours deux ils sont.
+
+1319
+02:02:54,615 --> 02:02:57,687
+Jamais plus, jamais moins.
+
+1320
+02:02:57,815 --> 02:03:00,613
+Un maître et un apprenti.
+
+1321
+02:03:00,735 --> 02:03:02,214
+Mais lequel a été tué ?
+
+1322
+02:03:02,335 --> 02:03:05,168
+Le maître ou l'apprenti ?
+
+1323
+02:03:28,815 --> 02:03:30,771
+Salutavoussi !
+
+1324
+02:04:15,495 --> 02:04:17,326
+Paix !
+
+
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.moviesubtitles.org</font>

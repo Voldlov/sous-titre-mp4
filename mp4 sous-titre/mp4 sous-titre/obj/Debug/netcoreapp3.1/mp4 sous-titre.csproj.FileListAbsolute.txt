@@ -1,0 +1,4 @@
+C:\Users\lucas\source\repos\mp4 sous-titre\mp4 sous-titre\obj\Debug\netcoreapp3.1\mp4 sous-titre.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\mp4 sous-titre\mp4 sous-titre\obj\Debug\netcoreapp3.1\mp4 sous-titre.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\mp4 sous-titre\mp4 sous-titre\obj\Debug\netcoreapp3.1\mp4 sous-titre.AssemblyInfo.cs
+C:\Users\lucas\source\repos\mp4 sous-titre\mp4 sous-titre\obj\Debug\netcoreapp3.1\mp4 sous-titre.csproj.CoreCompileInputs.cache
